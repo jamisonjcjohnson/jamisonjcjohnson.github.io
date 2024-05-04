@@ -21,9 +21,13 @@
   <link href="/static/css/{{ css_name | prepend: site.baseurl }}" rel="stylesheet" media="screen">
   {% endfor %}{% endif %}
   <!-- Post/Page Specific CSS -->
+  
+   <!-- 
   {% if page.custom_css and page.title != 'Blog' %}%}{% for css_name in page.custom_css %}
   <link href="/static/css/{{ css_name | prepend: site.baseurl }}" rel="stylesheet" media="screen">
   {% endfor %}{% endif %}
+  -->
+  
   <!-- Main Scripts -->
   <script src="{{"/static/assets/app-20190620.min.js"| prepend: site.baseurl }}"></script>
   <script src="{{"/static/assets/blog-20190620.min.js"| prepend: site.baseurl }}"></script>
