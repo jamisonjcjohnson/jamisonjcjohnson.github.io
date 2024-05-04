@@ -33,7 +33,7 @@ kramdown:
 ####################################
 #
 lang: it_IT
-permalink: /blog/:categories/:title/
+#permalink: /blog/:categories/:title/
 
 social:
   name: Jamison Johnson
