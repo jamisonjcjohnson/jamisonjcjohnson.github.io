@@ -41,7 +41,7 @@
   job:
     detail: Senior System Administrator
     i18n: novomatic_b_job
-  icon: fa-windows
+  icon: fa-linux
 
 - name:
     detail: Department of Navy via SimVentions
