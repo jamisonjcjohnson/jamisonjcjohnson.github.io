@@ -43,9 +43,9 @@ social:
     - https://www.linkedin.com/in/jamisonjcjohnson/
     - https://github.com/jamisonjcjohnson/jamisonjcjohnson.github.io
 
-twitter:
-  card: summary
-  username: BloggerStanco
+#twitter:
+  #card: summary
+  #username: BloggerStanco
 
 webmaster_verifications:
   google: FByo2xcDR6RaUId2DdQjhAmq9YMjlEhVlL0OgK8KDzU
@@ -64,8 +64,8 @@ author:  # change following line to your infomation.
   avatar: /static/assets/img/landing/profile-pic2.jpg  # upload your avatar at directory and edit it.
   github_username: jamisonjcjohnson  # Leave blank if you don't have now
   linkedin_id: jamisonjcjohnson # Leave blank if you don't have now
-  facebook_username: cristian.castellari  # Leave blank if you don't have now
-  twitter: BloggerStanco
+#  facebook_username: cristian.castellari  # Leave blank if you don't have now
+#  twitter: BloggerStanco
   email: jamison.jcjohnson@gmail.com  # Leave blank if you don't have now
   cv: https://jamisonjcjohnson.github.io/static/assets/resume/JamisonJohnsonResume_2024.pdf  # An online CV can be printed as PDF, leave blank if you don't have now
 
