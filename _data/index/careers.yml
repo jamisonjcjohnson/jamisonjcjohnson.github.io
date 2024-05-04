@@ -41,7 +41,7 @@
   job:
     detail: Senior System Administrator
     i18n: novomatic_b_job
-  icon: fa-ubuntu
+  icon: fa-redhat
 
 - name:
     detail: Department of Navy via SimVentions
@@ -69,4 +69,4 @@
   job:
     detail: Technical Lead
     i18n: sogema_job
-  icon: fa-people-group
+  icon: fa-server
