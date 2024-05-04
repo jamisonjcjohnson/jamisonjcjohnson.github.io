@@ -12,7 +12,7 @@
   job:
     detail: Senior System Administrator
     i18n: integra_job
-  icon: fa-microchip
+  icon: fa-terminal
   present: true
 
 - name:
@@ -27,7 +27,7 @@
   job:
     detail: Senior IT Specialist
     i18n: integra_job
-  icon: fa-plus-square
+  icon: fa-linux
  
 - name:
     detail: Department of Navy via SimVentions
@@ -41,7 +41,7 @@
   job:
     detail: Senior System Administrator
     i18n: novomatic_b_job
-  icon: fa-plus-square
+  icon: fa-ubuntu
 
 - name:
     detail: Department of Navy via SimVentions
@@ -55,7 +55,7 @@
   job:
     detail: System Administrator
     i18n: novomatic_job
-  icon: fa-plus-square
+  icon: fa-windows
 
 - name:
     detail: Department of Energy via ActioNet
@@ -69,4 +69,4 @@
   job:
     detail: Technical Lead
     i18n: sogema_job
-  icon: fa-plus-square
+  icon: fa-people-group
