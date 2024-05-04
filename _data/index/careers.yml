@@ -12,7 +12,7 @@
   job:
     detail: Senior System Administrator
     i18n: integra_job
-  icon: fa-plus-square
+  icon: fa-microchip
   present: true
 
 - name:
