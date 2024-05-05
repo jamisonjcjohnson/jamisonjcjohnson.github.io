@@ -12,8 +12,8 @@
   job:
     detail: Senior System Administrator
     i18n: integra_job
-  icon: fa-code
-  present: true
+  icon: fa-terminal
+  #present: true
 
 - name:
     detail: Department of Navy
