@@ -4,7 +4,7 @@ layout: post
 date: '2024-05-02'
 description: Overview of Prometheus and Grafana as essential network monitoring tools.
 intro: "Prometheus and Grafana are essential tools for monitoring and visualizing metrics in modern IT environments."
-lang: it_IT
+lang: it_EN
 image: "/static/assets/img/blog/2024/prometheus_grafana_overview/prometheus_grafana_overview.png"
 keywords: prometheus,grafana,network,monitoring
 categories:
