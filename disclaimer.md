@@ -6,7 +6,7 @@ description: Disclaimer
 lang: en_US
 permalink: /about/disclaimer/
 ---
-Welcome to jamisonjohnson.net. Before you dive into the wealth of information and insights we offer, please take a moment to review the following disclaimer:
+Welcome to jamisonjohnson.me. Before you dive into the wealth of information and insights we offer, please take a moment to review the following disclaimer:
 
 <br>
 
