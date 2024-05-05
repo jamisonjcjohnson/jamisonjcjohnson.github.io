@@ -7,27 +7,24 @@
 #- name: Kace
 #  href: /kace/
   
-- name: HTML
-  href: /html/
+- name: MacOS
+  href: /macos/
 
-- name: ITIL
-  href: /itil/
+- name: Windows
+  href: /windows/
   
 - name: Linux
   href: /linux/
-
-- name: Wordpress
-  href: /wordpress/
-
-- name: Games
-  href: /games/
   
 - name: Tools
   href: /tools/
-  
-- name: Life
-  href: /life/
 
+- name: Reviews
+  href: /reviews/
+
+- name: Other
+  href: /other/
+  
 # Don't display donation page: change donation to off at file '_config.yml'
 - name: Donate
   href: /donate/
