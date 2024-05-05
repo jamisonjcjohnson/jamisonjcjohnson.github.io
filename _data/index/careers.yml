@@ -12,7 +12,7 @@
   job:
     detail: Senior System Administrator
     i18n: integra_job
-  icon: fa-terminal
+  icon: fa-code
   present: true
 
 - name:
