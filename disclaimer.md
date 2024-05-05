@@ -8,6 +8,8 @@ permalink: /about/disclaimer/
 ---
 Welcome to jamisonjohnson.it. Before you dive into the wealth of information and insights we offer, please take a moment to review the following disclaimer:
 
+<br>
+
 ### Information Accuracy: 
 
 While we strive to provide accurate and up-to-date information, the content on this website is for informational purposes only. We make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability, or availability of the information contained on this website.
