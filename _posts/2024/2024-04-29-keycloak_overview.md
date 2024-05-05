@@ -19,6 +19,10 @@ icon: fa-book
 
 If you're in search of an identity and access management system without breaking the bank, Keycloak might be the solution for you. Keycloak is an open-source identity and access management software that offers a range of features to help manage user authentication and authorization efficiently.
 
+
+* TOC 
+{:toc}
+
 ## Key Features of Keycloak
 
 Keycloak provides several key features that make it a popular choice among professionals:
