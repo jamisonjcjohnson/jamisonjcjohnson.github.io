@@ -19,9 +19,12 @@ icon: fa-book
 
 If you're in search of an identity and access management system without breaking the bank, Keycloak might be the solution for you. Keycloak is an open-source identity and access management software that offers a range of features to help manage user authentication and authorization efficiently.
 
+<br>
 
 * TOC 
 {:toc}
+
+<br>
 
 ## Key Features of Keycloak
 
@@ -33,6 +36,8 @@ Keycloak provides several key features that make it a popular choice among profe
 - **Scalability and Performance**: High-performance, lightweight, and scalable, with clustering features for scalability, performance, and high availability.
 - **Customization**: Provides built-in themes and customization options to tailor the look and feel of the authentication process to meet specific requirements or branding needs.
 - **Password Policies and Multi-Tenancy**: Supports various password policies and allows for the creation of a multi-tenant environment.
+
+<br>
 
 ## Documentation and Support
 
@@ -48,10 +53,13 @@ Installing Keycloak, especially with Docker, is straightforward:
 - **Docker Installation**: Simply copy and paste the provided Docker command, customize the user ID and password, and access the admin console to configure realms, users, and applications.
 - **Server Guide**: For production environments, it's recommended to configure a database like PostgreSQL and SSL certificates. The server guide provides detailed instructions for configuration.
 
+<br>
+
 ## Conclusion
 
 Keycloak offers a robust and cost-effective solution for identity and access management needs. With its extensive features, ease of use, and strong community support, Keycloak stands out as a reliable choice for organizations seeking to enhance security and user authentication processes. In the next video, we'll demonstrate how to install and configure Keycloak, so stay tuned and subscribe for updates.
 
+<br>
 
 📝 For more information, you can refer to the [Official Keycloak Documentation](https://www.keycloak.org/documentation).
 

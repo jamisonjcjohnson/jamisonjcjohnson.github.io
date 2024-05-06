@@ -21,6 +21,11 @@ JFrog Artifactory is a universal binary repository manager that serves as a cent
 
 <br>
 
+* TOC 
+{:toc}
+
+<br>
+
 ## User and Group Management
 
 Artifactory allows you to tightly control access to your platform through user and group management. By navigating to the administration module and then to Identity and Access, you can create users with specific privileges, assign them to groups, and define permissions based on your organization's requirements.

@@ -20,6 +20,11 @@ GitLab has emerged as a cornerstone tool for managing DevOps workflows, offering
 
 <br>
 
+* TOC 
+{:toc}
+
+<br>
+
 ## Understanding DevOps with GitLab
 
 Before we dive into GitLab's features, let's understand the essence of DevOps. DevOps encompasses the processes involved in building, testing, deploying, and monitoring software applications. GitLab plays a pivotal role in streamlining these processes by offering robust CI/CD pipelines and APM capabilities.
