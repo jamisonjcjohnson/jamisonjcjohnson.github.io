@@ -1,7 +1,7 @@
 ---
 title: Overview of GitLab - Your One-Stop DevOps Solution
 layout: post
-date: '2024-05-05'
+date: '2024-05-08'
 description: GitLab has emerged as a cornerstone tool for managing DevOps workflows.
 intro: "GitLab plays a pivotal role in streamlining these processes by offering robust CI/CD pipelines and APM capabilities."
 lang: en_US

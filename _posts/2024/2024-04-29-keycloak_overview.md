@@ -46,6 +46,8 @@ Keycloak offers comprehensive documentation and community support to assist user
 - **Documentation**: Detailed guides are available for installation, migration, and configuration, covering both bare-metal server setups and containerized environments like Docker.
 - **Community Support**: Users can connect with professionals worldwide via community forums for assistance and to report vulnerabilities.
 
+<br>
+
 ## Installation and Configuration
 
 Installing Keycloak, especially with Docker, is straightforward:
