@@ -13,7 +13,7 @@ tags:
 - remote
 - remote-acccess
 - teamviewer
-icon: fa-computer
+icon: fa-server
 ---
 
 
