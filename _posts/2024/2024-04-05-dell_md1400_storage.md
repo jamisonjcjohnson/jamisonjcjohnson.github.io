@@ -5,7 +5,7 @@ date: '2024-04-05'
 description: The Dell PowerVault MD1400 is a high-performance, scalable storage solution designed to meet the demands of modern data-intensive applications.
 intro: "The Dell PowerVault MD1400 Direct-Attached Storage offers a powerful combination of scalability, reliability, and flexibility, making it an ideal storage solution for a wide range of applications and deployment scenarios."
 lang: en_US
-image: "/static/assets/img/blog/2024/elastic_vs_splunk/elastic_vs_splunk.png"
+image: "/static/assets/img/blog/2024/dell_md1400_storage/dell_md1400_storage1.png"
 keywords: networking,storage,dell,reviews
 categories:
 - Reviews
@@ -18,7 +18,7 @@ icon: fa-server
 ---
 
 ![Deep Dive into the Dell PowerVault MD1400 Direct-Attached Storage 1](/static/assets/img/blog/2024/dell_md1400_storage/dell_md1400_storage1.png)
-![Deep Dive into the Dell PowerVault MD1400 Direct-Attached Storage 2](/static/assets/img/blog/2024/dell_md1400_storage/dell_md1400_storage1.png)
+![Deep Dive into the Dell PowerVault MD1400 Direct-Attached Storage 2](/static/assets/img/blog/2024/dell_md1400_storage/dell_md1400_storage2.png)
 
 ## Introduction
 

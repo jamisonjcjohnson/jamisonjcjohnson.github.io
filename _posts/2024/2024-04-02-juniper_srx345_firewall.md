@@ -17,10 +17,6 @@ tags:
 icon: fa-server
 ---
 
-![Deep Dive into the Juniper SRX345 Firewall](/static/assets/img/blog/2024/juniper_srx345_firewall/juniper_srx345_firewall2.jpg)
-![Deep Dive into the Juniper SRX345 Firewall](/static/assets/img/blog/2024/juniper_srx345_firewall/juniper_srx345_firewall3.jpg)
-
-
 ## Introduction
 
 The Juniper SRX345 is a high-performance, next-generation firewall designed to provide advanced security features and comprehensive threat protection for enterprise networks. With its robust architecture and feature-rich capabilities, the SRX345 offers unparalleled security and reliability for organizations of all sizes.
