@@ -6,13 +6,14 @@ description: JFrog Artifactory is more than just a binary repository manager.
 intro: "JFrog Artifactory is a universal binary repository manager that serves as a central hub for managing various types of build artifacts, compiled binaries, and dependencies, regardless of the technologies you're using."
 lang: en_US
 image: "/static/assets/img/blog/2024/artifactory_overview/artifactory_overview.png"
-keywords: jfrog,artifactory,repository
+keywords: jfrog,artifactory,repository,reviews
 categories:
 - Reviews
 tags:
 - jfrog
 - artifactory
 - repository
+- reviews
 icon: fa-book
 ---
 

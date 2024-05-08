@@ -6,13 +6,14 @@ description: GitLab has emerged as a cornerstone tool for managing DevOps workfl
 intro: "GitLab plays a pivotal role in streamlining these processes by offering robust CI/CD pipelines and APM capabilities."
 lang: en_US
 image: "/static/assets/img/blog/2024/gitlab_overview/gitlab_overview.jpeg"
-keywords: gitlab,devops,cicd
+keywords: gitlab,devops,cicd,reviews
 categories:
 - Reviews
 tags:
 - gitlab
 - devops
 - cicd
+- reviews
 icon: fa-book
 ---
 

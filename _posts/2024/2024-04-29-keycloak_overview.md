@@ -6,13 +6,14 @@ description: Keycloak is an open-source identity and access management software 
 intro: "Keycloak provides several key features that make it a popular choice among professionals."
 lang: en_US
 image: "/static/assets/img/blog/2024/keycloak_overview/keycloak_overview.jpg"
-keywords: keycloak,SSO,authentication
+keywords: keycloak,SSO,authentication,reviews
 categories:
 - Reviews
 tags:
 - keycloak
 - SSO
 - authentication
+- reviews
 icon: fa-book
 ---
 

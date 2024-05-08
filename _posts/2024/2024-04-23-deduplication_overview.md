@@ -6,13 +6,14 @@ description: Deduplication is a critical technology in online backup and recover
 intro: "Deduplication, especially block-level deduplication, is a crucial component of modern backup and recovery solutions."
 lang: en_US
 image: "/static/assets/img/blog/2024/deduplication_overview/deduplication_overview.jpg"
-keywords: deduplication,backups,data
+keywords: deduplication,backups,data,reviews
 categories:
 - Other
 tags:
 - deduplication
 - backups
 - data
+- reviews
 icon: fa-server
 ---
 
