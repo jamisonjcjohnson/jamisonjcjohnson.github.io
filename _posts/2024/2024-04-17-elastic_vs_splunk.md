@@ -2,7 +2,7 @@
 title: Elastic vs. Splunk - A Comparative Analysis
 layout: post
 date: '2024-04-17'
-description: Wwe'll compare Elastic and Splunk across numerous aspects to help you make an informed decision about which solution best suits your needs.
+description: We'll compare Elastic and Splunk across numerous aspects to help you make an informed decision about which solution best suits your needs.
 intro: "SonarQube is a powerful tool for code quality management and continuous inspection, offering a range of features to help development teams build better software."
 lang: en_US
 image: "/static/assets/img/blog/2024/elastic_vs_splunk/elastic_vs_splunk.png"
