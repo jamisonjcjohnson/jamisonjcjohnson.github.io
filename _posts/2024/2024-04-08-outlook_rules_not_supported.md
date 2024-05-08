@@ -8,7 +8,7 @@ lang: en_US
 image: "/static/assets/img/blog/2024/outlook_rules_not_supported/outlook_rules_not_supported.jpg"
 keywords: macos,outlook,email
 categories:
-- MacOS
+- Macos
 tags:
 - macos
 - outlook
