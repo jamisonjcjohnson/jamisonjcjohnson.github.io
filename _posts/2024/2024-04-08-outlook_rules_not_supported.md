@@ -18,9 +18,6 @@ icon: fa-apple
 
 If you've encountered the "Rules are not supported for this account" error message in the Outlook app on your Mac, you're not alone. While Microsoft no longer supports Client Rules on Outlook for Mac, there are still ways to work around this issue. In this guide, we'll walk you through the steps to fix this error and regain access to Client Rules on your Mac.
 
-![Fixing "Outlook Rules Not Supported for This Account" Error on Mac](/static/assets/img/blog/2024/outlook_rules_not_supported/outlook_rules_not_supported1.jpg)
-
-
 <br>
 
 * TOC 
