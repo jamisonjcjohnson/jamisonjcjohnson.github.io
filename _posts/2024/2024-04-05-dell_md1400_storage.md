@@ -24,15 +24,28 @@ icon: fa-server
 
 The Dell PowerVault MD1400 is a high-performance, scalable storage solution designed to meet the demands of modern data-intensive applications. As a direct-attached storage (DAS) system, the MD1400 provides reliable and cost-effective storage expansion for servers and workstations, making it an ideal choice for small to medium-sized businesses and enterprise environments.
 
+<br>
+
+* TOC 
+{:toc}
+
+<br>
+
 ## Key Features
+
+<br>
 
 ### High Scalability
 
 The MD1400 offers extensive scalability options, allowing organizations to start with a minimal configuration and easily expand storage capacity as their needs grow. With support for up to twelve 3.5-inch or 2.5-inch SAS, NL-SAS, or SSD drives, the MD1400 can accommodate a wide range of storage requirements, from basic file storage to high-performance database workloads.
 
+<br>
+
 ### Redundant Design
 
 Built with redundancy in mind, the MD1400 features redundant power supplies and fans to ensure continuous operation and minimize the risk of downtime due to hardware failures. Additionally, hot-swappable drive carriers and redundant SAS controllers provide fault tolerance and seamless operation during drive replacements or maintenance activities.
+
+<br>
 
 ### Flexible Connectivity
 
@@ -44,21 +57,30 @@ With Dell's Storage Manager software, administrators can easily configure, monit
 
 ## Deployment Scenarios
 
+<br>
+
 ### High-Performance Computing
 
 In high-performance computing (HPC) environments, the MD1400 can be used to store and manage large datasets for scientific simulations, engineering analysis, and other compute-intensive workloads. By leveraging the MD1400's high-speed SAS connectivity and SSD options, organizations can achieve the performance and scalability required for demanding computational tasks.
+
+<br>
 
 ### Virtualization Infrastructure
 
 For virtualized environments, the MD1400 can serve as a cost-effective storage expansion solution for hypervisor hosts, providing additional storage capacity for virtual machine (VM) deployments. By connecting the MD1400 directly to the host servers, organizations can eliminate the need for complex storage area network (SAN) configurations and achieve simplified management and deployment.
 
+<br>
+
 ### Media and Entertainment
 
 In media and entertainment production workflows, the MD1400 can be used to store and archive large media files, such as high-definition video footage and digital assets. With its high-capacity storage options and flexible connectivity, the MD1400 enables content creators to efficiently manage and access their media assets while maintaining optimal performance and reliability.
+
+<br>
 
 ## Conclusion
 
 The Dell PowerVault MD1400 Direct-Attached Storage offers a powerful combination of scalability, reliability, and flexibility, making it an ideal storage solution for a wide range of applications and deployment scenarios. With its redundant design, advanced management features, and high-performance capabilities, the MD1400 provides organizations with the storage infrastructure they need to support their evolving business needs and drive innovation.
 
+<br>
 
 📝 For more information about the Dell PowerVault MD1400 Direct-Attached Storage, you can refer to the [official documentation](https://www.dell.com/support/home/en-us/product-support/product/storage-md1400/docs).
