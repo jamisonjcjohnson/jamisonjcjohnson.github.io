@@ -1,24 +1,20 @@
-<!-- Search Box -->
+<!-- Html Elements for Search -->
 <div id="search-container">
-    <input type="text" id="search-input" placeholder="Search blog...">
+    <input type="text" id="search-input" placeholder="search blog...">
     <ul id="results-container"></ul>
-</div>
-
-<!-- Script for Search Functionality -->
-<script src="/search-script.js" type="text/javascript"></script>
-
-<!-- Configure Search -->
-<script>
+    </div>
+    
+    <!-- Script pointing to search-script.js -->
+    <script src="/search-script.js" type="text/javascript"></script>
+    
+    <!-- Configuration -->
+    <script>
     SimpleJekyllSearch({
-        searchInput: document.getElementById('search-input'),
-        resultsContainer: document.getElementById('results-container'),
-        json: '/search.json'
+      searchInput: document.getElementById('search-input'),
+      resultsContainer: document.getElementById('results-container'),
+      json: '/search.json'
     })
-</script>
+    </script>
 
-<!-- Link to Return to Blog -->
-<p style="text-align: center; margin-top: 20px;">
-    <a href="https://jamisonjohnson.me/blog" style="font-size: 18px; color: #333; text-decoration: none;">
-        Back to Blog
-    </a>
-</p>
+    <!-- Link back to jamisonjohnson.me -->
+<p><a href="https://jamisonjohnson.me/blog">Back to blog</a></p>
