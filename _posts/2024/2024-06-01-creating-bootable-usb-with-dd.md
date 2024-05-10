@@ -1,7 +1,7 @@
 ---
 title: Creating a Bootable USB Drive with dd Command on MacOS
 layout: post
-date: '2024-05-09'
+date: '2024-06-01'
 description: We'll walk you through the process step by step using the `dd` command on MacOS.
 intro: "By following the steps outlined in this guide, you can confidently create bootable USB drives from ISO files with ease."
 lang: en_US
@@ -67,7 +67,7 @@ Navigate to the directory containing the ISO file in Terminal. Then, use the dd 
 sudo dd bs=1m if=rhel-9.4-x86_64-boot.iso of=/dev/rdisk#
 ```
 
-**Note:** Ensure you replace `/dev/rdisk#` with the correct path to your USB device. You can verify this using the diskutil list command.
+**Note:** Ensure you replace `/dev/rdisk#` with the correct path to your USB device. You can verify this using the `diskutil list` command.
 
 <br>
 
