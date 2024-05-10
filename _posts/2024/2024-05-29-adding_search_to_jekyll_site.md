@@ -33,7 +33,7 @@ We will be creating a JSON file in which we will store page title, page link, ca
 
 Create a file in the root of your Jekyll blog and name it `search.json`. Now, copy the below code in it and save.
 
-```
+```plaintext
 ---
 ---
 [
