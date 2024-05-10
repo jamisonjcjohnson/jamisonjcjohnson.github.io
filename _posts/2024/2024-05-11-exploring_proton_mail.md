@@ -1,7 +1,7 @@
 ---
 title: Exploring ProtonMail and the Proton Suite
 layout: post
-date: '2024-05-09'
+date: '2024-05-11'
 description: We'll explore the features and benefits of ProtonMail and other tools in the Proton suite.
 intro: "ProtonMail and the Proton suite of tools represent a commitment to privacy, security, and freedom of expression in the digital world."
 lang: en_US
