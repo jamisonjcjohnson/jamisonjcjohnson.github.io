@@ -1,7 +1,7 @@
 ---
 title: Generating a SOS Report for RedHat Support
 layout: post
-date: '2024-05-09'
+date: '2024-05-20'
 description: We'll walk you through the steps to generate an SOS report for RedHat Support.
 intro: "Generating a System Overview Snapshot (SOS) report can provide valuable information for troubleshooting and seeking support from RedHat."
 lang: en_US
@@ -47,6 +47,8 @@ You may be prompted to enter your password. Once entered, the SOS report generat
 
 ## Step 3: Follow the Prompts
 During the SOS report generation, you may encounter prompts asking for additional information. Answer the prompts accordingly to provide context for the report. You will be asked to enter a case id that you are generating this report for, this is optional.
+
+<br>
 
 ## Step 4: Wait for the Report to Generate
 The SOS report generation process may take some time, depending on the size and complexity of your system. Be patient and allow the command to complete its execution.
