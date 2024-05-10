@@ -33,7 +33,7 @@ We will be creating a JSON file in which we will store page title, page link, ca
 
 Create a file in the root of your Jekyll blog and name it `search.json`. Now, copy the below code in it and save.
 
-```bash
+```
 ---
 ---
 [
@@ -50,6 +50,7 @@ Create a file in the root of your Jekyll blog and name it `search.json`. Now, co
   {% endfor %}
 ]
 ```
+
 What it does is that it converts your Jekyll data from all the posts and puts it as key value pair which can then be easily read by a search script.
 
 ### Step 2 - Save the search script
