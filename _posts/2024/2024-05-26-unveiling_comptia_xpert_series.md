@@ -1,7 +1,7 @@
 ---
 title: Unveiling the New CompTIA Xpert Series Certifications
 layout: post
-date: '2024-05-09'
+date: '2024-05-26'
 description: We'll discuss the new CompTIA Xpert Series certifications in detail.
 intro: "The launch of the CompTIA Xpert Series certifications marks an exciting development for IT professionals seeking to advance their careers and stay relevant in today's dynamic IT industry."
 lang: en_US

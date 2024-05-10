@@ -1,7 +1,7 @@
 ---
 title: Sending Email from Terminal in RHEL 9
 layout: post
-date: '2024-05-09'
+date: '2024-05-14'
 description: We will show you a step-by-step guide to configure and use Postfix for sending emails from your RHEL 9 terminal.
 intro: "Sending emails from the terminal in RHEL 9 using Postfix is a straightforward process that can be accomplished by following a few simple steps."
 lang: en_US
