@@ -1,7 +1,7 @@
 ---
 title: Creating a Clickable Table of Contents in Microsoft Word on Mac
 layout: post
-date: '2024-05-09'
+date: '2024-05-17'
 description: We'll walk you through the steps to create a clickable table of contents in Microsoft Word on your Mac.
 intro: "Adding a clickable table of contents to your document can improve its usability and make it more reader-friendly."
 lang: en_US
