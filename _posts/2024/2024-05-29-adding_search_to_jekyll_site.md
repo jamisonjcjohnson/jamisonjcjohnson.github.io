@@ -1,7 +1,7 @@
 ---
 title: Adding Search to Jekyll Site
 layout: post
-date: '2024-05-09'
+date: '2024-05-29'
 description: We'll walk through the process of setting up Jekyll Instant Search.
 intro: "By leveraging client-side technologies and adhering to best practices, you can achieve fast and reliable search functionality without compromising the simplicity and elegance of the Jekyll framework."
 lang: en_US
