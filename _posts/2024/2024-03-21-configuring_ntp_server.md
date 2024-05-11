@@ -1,5 +1,5 @@
 ---
-title: Configuring an NTP Server and Synchronizing Time with a Client
+title: Configuring a NTP Server and Synchronizing Time with a Client
 layout: post
 date: '2024-03-21'
 description: we will walk through the process of configuring a Network Time Protocol (NTP) server on a RHEL 9 system.
@@ -21,7 +21,16 @@ icon: fa-linux
 
 In this guide, we will walk through the process of configuring a Network Time Protocol (NTP) server on a RHEL 9 system and then demonstrate how to connect a RHEL 9 client to this server to synchronize time.
 
+<br>
+
+* TOC 
+{:toc}
+
+<br>
+
 ## Configuring NTP Server
+
+<br>
 
 ### Step 1: Install Chrony Package
 
@@ -30,6 +39,8 @@ First, ensure that the chrony package is installed on your server:
 ```bash
 sudo dnf install chrony
 ```
+
+<br>
 
 ### Step 2: Configure NTP
 
@@ -54,6 +65,7 @@ Uncomment the **allow IP** section to allow clients on your local network to con
 allow 192.168.1.0/24
 ```
 
+<br>
 
 ### Step 3: Start and Enable chronyd Service
 
@@ -63,6 +75,8 @@ Start the chronyd service and enable it to start on boot:
 sudo systemctl start chronyd
 sudo systemctl enable chronyd
 ```
+
+<br>
 
 #### Step 4: Configuring the firewall for chronyd
 
@@ -74,7 +88,11 @@ sudo firewall-cmd --reload
 sudo firewall-cmd --list-all
 ```
 
+<br>
+
 ## Synchronizing Time on RHEL 9 Client
+
+<br>
 
 ### Step 1: Install Chrony Package
 
@@ -98,6 +116,8 @@ Specify your NTP server under the `server` directive:
 server your_ntp_server iburst
 ```
 
+<br>
+
 ### Step 3: Start and Enable Chrony Service
 
 Start the Chrony service and enable it to start on boot:
@@ -106,6 +126,8 @@ Start the Chrony service and enable it to start on boot:
 sudo systemctl start chronyd
 sudo systemctl enable chronyd
 ```
+
+<br>
 
 ### Step 4: Verify Time Synchronization
 
@@ -117,10 +139,12 @@ sudo chronyc sources
 
 This command should display the NTP sources and indicate if synchronization is successful.
 
+<br>
 
 ## Conclusion
 
 Configuring an NTP server on RHEL 9 and synchronizing time on a client ensures accurate timekeeping across your systems. Proper time synchronization is crucial for various system operations, log management, and security protocols.
 
+<br>
 
 📝 For more information about using Chrony for NTP configurations, you can refer to the official [RedHat Customer Portal Documentation](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/9/html/configuring_basic_system_settings/configuring-time-synchronization_configuring-basic-system-settings).
