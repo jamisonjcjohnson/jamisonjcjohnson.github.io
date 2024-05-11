@@ -1,7 +1,7 @@
 ---
 title: Configuring RAID on Dell PowerEdge Servers
 layout: post
-date: '2024-05-09'
+date: '2024-06-08'
 description: We'll walk through the process of creating a RAID configuration on a 13th generation PowerEdge server.
 intro: "Configuring RAID on Dell PowerEdge servers is crucial for data integrity and system performance."
 lang: en_US
