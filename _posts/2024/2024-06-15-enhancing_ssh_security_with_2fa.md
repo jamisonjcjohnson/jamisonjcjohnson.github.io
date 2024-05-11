@@ -1,7 +1,7 @@
 ---
 title: Enhancing SSH Security with Two-Factor Authentication on RHEL
 layout: post
-date: '2024-05-10'
+date: '2024-06-15'
 description: We'll walk you through the process of setting up two-factor authentication using Google Authenticator and Pluggable Authentication Modules (PAM) in SSH on RHEL.
 intro: "By following the steps outlined in this guide, you can enhance the security of your RHEL server infrastructure with 2FA using Google Authenticator and PAM."
 lang: en_US
