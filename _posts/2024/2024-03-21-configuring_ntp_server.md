@@ -78,7 +78,7 @@ sudo systemctl enable chronyd
 
 <br>
 
-#### Step 4: Configuring the firewall for chronyd
+### Step 4: Configuring the firewall for chronyd
 
 Using the firewall-cmd command, allow network access for the ntp and ptp services.
 
@@ -102,7 +102,7 @@ Ensure that the `chrony` package is installed on your RHEL 9 client:
 sudo dnf install chrony
 ```
 
-## Step 2: Configure Chrony
+### Step 2: Configure Chrony
 
 Edit the Chrony configuration file at `/etc/chrony.conf`:
 
