@@ -3,7 +3,7 @@ title: Utilizing Crash Detection on iOS Devices
 layout: post
 date: '2024-03-15'
 description: The implementation of Crash Detection on iOS devices marks a significant advancement in leveraging technology for emergency assistance during severe car crashes.
-intro: "This feature, known as **Crash Detection**, is designed to work seamlessly on specific iPhone and Apple Watch models."
+intro: "This feature, known as Crash Detection, is designed to work seamlessly on specific iPhone and Apple Watch models."
 lang: en_US
 image: "/static/assets/img/blog/2024/ios_crash_detection/ios_crash_detection.png"
 keywords: ios,apple,macos
