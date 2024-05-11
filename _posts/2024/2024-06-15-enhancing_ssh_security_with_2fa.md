@@ -33,6 +33,8 @@ In this guide, we'll walk you through the process of setting up two-factor authe
 - SSH access to your RHEL server as the root user or with sudo privileges.
 - Google Authenticator installed on your mobile device.
 
+<br>
+
 ## Step 1: Install Google Authenticator
 
 ```bash
@@ -50,7 +52,7 @@ sudo dnf install https://dl.fedoraproject.org/pub/epel/epel-release-latest-9.noa
 ## Step 2: Configure Google Authenticator for a User
 
 - Log into the server as the user for whom you want to enable 2FA.
-- Run `google-authenticator` command.
+- Run the `google-authenticator` command.
 - Answer the prompts to enable TOTP, disallow multiple uses of the same token, allow time skew, and enable rate-limiting.
     - Do you want authentication tokens to be time-based (y/n) : `y`
     - Initially, if you are prompted for a code from the app, enter : `-1`, to skip
