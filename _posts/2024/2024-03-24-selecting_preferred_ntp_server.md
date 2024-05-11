@@ -80,7 +80,7 @@ Regularly monitor the synchronization status of your NTP clients to ensure that 
 
 ## Conclusion
 
-Selecting the preferred NTP server for time synchronization is a critical step in maintaining accurate and reliable timekeeping across your systems. By choosing servers based on accuracy, redundancy, and geographic proximity, you can enhance the overall stability and performance of your computer systems.
+Selecting the right preferred NTP server for time synchronization is a critical step in maintaining accurate and reliable timekeeping across your systems. By choosing servers based on accuracy, redundancy, and geographic proximity, you can enhance the overall stability and performance of your computer systems.
 
 <br>
 
