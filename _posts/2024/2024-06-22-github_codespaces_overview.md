@@ -1,7 +1,7 @@
 ---
 title: Overview of GitHub Codespaces
 layout: post
-date: '2024-05-11'
+date: '2024-06-22'
 description: We'll delve into the details of GitHub Codespaces, exploring its functionalities, benefits, and usage.
 intro: "GitHub Codespaces represents a paradigm shift in modern software development, offering a streamlined and collaborative development experience."
 lang: en_US
