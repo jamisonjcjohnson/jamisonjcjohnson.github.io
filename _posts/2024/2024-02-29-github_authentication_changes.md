@@ -2,8 +2,8 @@
 title: GitHub Authentication Changes - Embracing Two-Factor Authentication (2FA)
 layout: post
 date: '2024-02-29'
-description: This blog post delves into the definitions and differences between hashing and encryption, shedding light on their respective roles in securing passwords.
-intro: "While hashing is well-suited for password storage and data integrity verification, encryption excels in securing communication and protecting sensitive information."
+description: This blog post will walk you through the significance of this change and guide you on how to adapt to the new requirements.
+intro: "GitHub's transition to **mandatory** Two-Factor Authentication is a proactive step towards strengthening the security posture of user accounts. Embracing this change ensures a more resilient defense against unauthorized access and protects the collaborative development environment."
 lang: en_US
 image: "/static/assets/img/blog/2024/github_authentication_changes/github_authentication_changes.jpg"
 keywords: ssh,security,linux,github
