@@ -18,8 +18,6 @@ tags:
 icon: fa-linux
 ---
 
-## Introduction:
-
 Splunk is a powerful platform for searching, monitoring, and analyzing machine-generated data, and deploying Splunk forwarders allows you to extend its capabilities to collect data from various sources. This blog post provides a step-by-step guide on configuring a Splunk forwarder on a RHEL 9 host, enabling you to forward log data to a centralized Splunk instance for analysis.
 
 This post is an extension of my previous post about [Splunk Configuration Details](https://jamisonjohnson.me/blog/linux/splunk_configuration_details/).

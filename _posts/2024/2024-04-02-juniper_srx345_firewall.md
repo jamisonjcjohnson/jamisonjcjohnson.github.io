@@ -17,8 +17,6 @@ tags:
 icon: fa-server
 ---
 
-## Introduction
-
 The Juniper SRX345 is a high-performance, next-generation firewall designed to provide advanced security features and comprehensive threat protection for enterprise networks. With its robust architecture and feature-rich capabilities, the SRX345 offers unparalleled security and reliability for organizations of all sizes.
 
 <br>

@@ -17,9 +17,6 @@ tags:
 icon: fa-server
 ---
 
-
-## Introduction
-
 SonarQube is an open-source platform designed to continuously inspect code quality, detect bugs, vulnerabilities, and security vulnerabilities, and provide insights into code maintainability. It offers a comprehensive set of features for static code analysis, code coverage, code duplication detection, and more. In this blog post, we'll provide an overview of SonarQube, its key features, and how it may benefit development teams.
 
 <br>

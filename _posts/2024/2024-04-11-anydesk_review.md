@@ -17,8 +17,6 @@ tags:
 icon: fa-server
 ---
 
-## Introduction
-
 AnyDesk is a popular remote desktop software that enables users to access and control computers remotely from anywhere. It offers a range of features designed to facilitate seamless collaboration, troubleshooting, and file sharing between devices. In this overview, we'll explore the key aspects of AnyDesk and compare it with its closest competitors in the remote desktop software market.
 
 <br>

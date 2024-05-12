@@ -16,8 +16,6 @@ tags:
 icon: fa-lock
 ---
 
-## Introduction:
-
 In the realm of cybersecurity, the protection of user passwords is vital. Hashing and encryption are two fundamental techniques employed to safeguard sensitive information. This blog post delves into the definitions and differences between hashing and encryption, shedding light on their respective roles in securing passwords.
 
 <br>

@@ -18,8 +18,6 @@ icon: fa-server
 ---
 
 
-## Introduction to Vagrant
-
 Vagrant is an open-source tool that enables developers to create and manage lightweight, reproducible, and portable development environments. It aims to streamline the process of setting up and configuring development environments by automating the creation of virtual machines (VMs) using a simple and consistent workflow.
 
 <br>

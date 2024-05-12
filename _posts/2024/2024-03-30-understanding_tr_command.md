@@ -16,8 +16,6 @@ tags:
 icon: fa-linux
 ---
 
-## Introduction to the tr Command
-
 The `tr` command in Linux is a powerful tool used for translating or deleting characters. It stands for "translate" or "transliterate." With `tr`, you can perform various text transformation tasks, such as replacing characters, converting lowercase to uppercase (and vice versa), deleting specific characters, and more.
 
 <br>

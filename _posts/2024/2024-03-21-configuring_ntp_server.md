@@ -17,8 +17,6 @@ tags:
 icon: fa-linux
 ---
 
-## Introduction
-
 In this guide, we will walk through the process of configuring a Network Time Protocol (NTP) server on a RHEL 9 system and then demonstrate how to connect a RHEL 9 client to this server to synchronize time.
 
 <br>

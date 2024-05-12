@@ -20,8 +20,6 @@ icon: fa-server
 ![Deep Dive into the Dell PowerVault MD1400 Direct-Attached Storage 1](/static/assets/img/blog/2024/dell_md1400_storage/dell_md1400_storage1.png)
 ![Deep Dive into the Dell PowerVault MD1400 Direct-Attached Storage 2](/static/assets/img/blog/2024/dell_md1400_storage/dell_md1400_storage2.png)
 
-## Introduction
-
 The Dell PowerVault MD1400 is a high-performance, scalable storage solution designed to meet the demands of modern data-intensive applications. As a direct-attached storage (DAS) system, the MD1400 provides reliable and cost-effective storage expansion for servers and workstations, making it an ideal choice for small to medium-sized businesses and enterprise environments.
 
 <br>
