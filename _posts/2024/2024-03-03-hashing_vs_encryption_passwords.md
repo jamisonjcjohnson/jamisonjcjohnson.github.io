@@ -5,7 +5,7 @@ date: '2024-03-03'
 description: This blog post delves into the definitions and differences between hashing and encryption, shedding light on their respective roles in securing passwords.
 intro: "While hashing is well-suited for password storage and data integrity verification, encryption excels in securing communication and protecting sensitive information."
 lang: en_US
-image: "/static/assets/img/blog/2024/hashing_vs_encrypting_passwords/hashing_vs_encryption_passwords.jpg"
+image: "/static/assets/img/blog/2024/hashing_vs_encryption_passwords/hashing_vs_encryption_passwords.jpg"
 keywords: hash,encryption,security
 categories:
 - Other
