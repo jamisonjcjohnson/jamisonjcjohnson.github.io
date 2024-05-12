@@ -30,20 +30,32 @@ In the realm of remote server management, SSH (Secure Shell) is a powerful tool.
 
 SSH sessions often impose time limits to ensure security and resource optimization. However, this poses a challenge for tasks that require an extended duration to complete. When an SSH session ends, any running processes initiated within that session also terminate, potentially causing data loss or incomplete operations.
 
+<br>
+
 ## Enter Nohup - What is it?
 
 `Nohup`, short for "no hang up," is a command in Unix and Unix-like operating systems that allows users to run processes that persist even after the initiating terminal is closed. It prevents the associated command or script from receiving the SIGHUP (hang-up) signal, ensuring its continuity.
 
+<br>
+
 ## Why Nohup Matters:
+
+<br>
 
 ### 1. **Preserving Processes:**
    - By using `nohup`, you safeguard your processes from being affected by the termination of the SSH session. This is particularly crucial for long-running tasks, such as data backups, software installations, or data processing.
 
+<br>
+
 ### 2. **Decoupling from Terminal:**
    - `Nohup` disconnects the command or script from the terminal, making it immune to the hang-up signal. This decoupling ensures that the process remains independent of the initiating SSH session.
 
+<br>
+
 ### 3. **Output Handling:**
    - `Nohup` redirects the standard output and standard error to a file specified by the user (by default, it's nohup.out). This allows you to review the output later, providing insights into the process's execution.
+
+<br>
 
 ## Using Nohup:
 
@@ -58,12 +70,14 @@ nohup [command] [arguments] &
 
 `&`: Runs the command in the background.
 
+<br>
 
 ### Example:
 
 ```bash
 nohup ./my_long_running_script.sh &
 ```
+<br>
 
 ## Checking the Output:
 
@@ -73,10 +87,13 @@ The output of the `nohup` command is, by default, redirected to a file named `no
 tail -f nohup.out
 ```
 
+<br>
+
 ## Conclusion:
 
 In a world where remote server management is commonplace, dealing with SSH session time limits is inevitable. The `nohup` command servers as a savior, ensuring that your critical processes continue undisturbed even when faced with the constraints of SSH session duration. By incorporating `nohup` into your workflow, you empower yourself to execute tasks with confidence, knowing that interruptions won't hinder their completion.
 
+<br>
 
 📝 For more information about nohup, refer to the [nohup Man Page](https://linux.die.net/man/1/nohup).
 
