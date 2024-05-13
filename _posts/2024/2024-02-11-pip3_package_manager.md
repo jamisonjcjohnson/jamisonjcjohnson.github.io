@@ -1,7 +1,7 @@
 ---
 title: Using pip3 Package Manager
 layout: post
-date: '2024-01-03'
+date: '2024-02-11'
 description: In this blog post, we'll walk through the steps to install `python3-pip` and explore how to use the `pip3` package manager.
 intro: "Installing python3-pip on RHEL 9 allows you to harness the power of the pip3 package manager for managing Python packages. With pip3, you can easily install, upgrade, and manage dependencies, making your Python development workflow more streamlined on RHEL 9."
 lang: en_US
