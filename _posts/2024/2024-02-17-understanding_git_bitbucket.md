@@ -1,12 +1,5 @@
 ---
 title: Understanding Git Workflow with Bitbucket
-date: 2024-02-17 01:00:00 -0500
-categories: [bitbucket, sourcecode, repository, git]
-tags: [bitbucket, sourcecode, repository, git]
----
-
----
-title: Understanding Git Workflow with Bitbucket
 layout: post
 date: '2024-02-17'
 description: This blog post unravels the intricacies of the Git workflow using Bitbucket and delves into the significance of pull requests.
