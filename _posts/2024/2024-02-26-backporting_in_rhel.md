@@ -2,18 +2,17 @@
 title: Backporting in RHEL - Enhancing Stability and Security
 layout: post
 date: '2024-02-26'
-description: This blog post explores the concept of backporting in RHEL, its significance, and how it enhances both stability and security.
+description: is blog post explores the concept of backporting in RHEL, its significance, and how it enhances both stability and security.
 intro: "In the ever-changing landscape of technology, RHEL's commitment to backporting reaffirms its dedication to providing a solid foundation for businesses that rely on a stable and secure operating system."
 lang: en_US
 image: "/static/assets/img/blog/2024/backporting_in_rhel/backporting_in_rhel.jpg"
-keywords: ssh,security,linux
+keywords: ssh,security,linux,github
 categories:
 - Linux
 tags:
 - ssh
 - security
 - linux
-- github
 icon: fa-linux
 ---
 
@@ -38,7 +37,11 @@ Red Hat Enterprise Linux (RHEL) stands out as a robust and stable operating syst
 ### **Stability vs. Novel Features:**
    - RHEL prioritizes stability and long-term support. While the latest upstream versions of software may introduce new features, they can also bring **<span style="color: red;">complexity and potential security issues</span>**. Backporting allows RHEL to maintain stability by selectively incorporating essential updates while avoiding unnecessary changes that could impact reliability.
 
+<br>
+
 ## Significance of Backporting in RHEL:
+
+<br>
 
 ### **Security:**
    - Security vulnerabilities are an ever-present concern. Backporting enables the RHEL security team to address critical security issues promptly. Instead of waiting for the next major release, security patches can be backported to the currently supported versions, ensuring that users remain protected against emerging threats.
@@ -101,4 +104,4 @@ In the ever-changing landscape of technology, RHEL's commitment to backporting r
 
 <br>
 
-📝 For more information about backporting, refer to this [RedHat Knowledgebase Article](https://access.redhat.com/solutions/57665).
+📝 For more information about backporting, refer to this [RedHat Knowledgebase Article](https://access.redhat.com/solutions/57665)...
