@@ -50,7 +50,7 @@ PRELINKING=no
 
 ## Configuration:
 
-AIDE's configuration file is located at /etc/aide.conf. This file allows you to define rules for checking permissions, ownership, timestamps, and more. Customize the configuration based on your specific environment.
+AIDE's configuration file is located at `/etc/aide.conf`. This file allows you to define rules for checking permissions, ownership, timestamps, and more. Customize the configuration based on your specific environment.
 
 ```bash
 sudo vi /etc/aide.conf
@@ -66,7 +66,7 @@ Generate the initial database for your system:
 sudo aide --init
 ```
 
-After the database is created (stored in /var/lib/aide/aide.db.new.gz), rename and remove the 'new' string:
+After the database is created (stored in `/var/lib/aide/aide.db.new.gz`), rename and remove the 'new' string:
 
 ```bash
 sudo mv /var/lib/aide/aide.db.new.gz /var/lib/aide/aide.db.gz
