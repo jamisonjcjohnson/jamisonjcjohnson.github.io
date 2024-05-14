@@ -1,7 +1,7 @@
 ---
 title: Understanding tmux - Your Ultimate Productivity Companion
 layout: post
-date: '2024-05-14'
+date: '2024-06-29'
 description: If you're spending a lot of time in the terminal and haven't yet explored the wonders of tmux, you're missing out. If you're not already using Team UX (tmux), it's time to start.
 intro: "Whether you're a developer, system administrator, or anyone who spends a significant amount of time in the terminal, integrating tmux into your toolkit is sure to elevate your command-line experience to new heights."
 lang: en_US
@@ -148,7 +148,7 @@ You've learned the basics of tmux. With its powerful features, tmux can signific
 
 -  tmux [man page](https://linux.die.net/man/1/tmux)
 
--  This [GitHub page](https://gist.github.com/MohamedAlaa/2961058)
+-  this [GitHub page](https://gist.github.com/MohamedAlaa/2961058)
 
 
 
@@ -156,4 +156,4 @@ You've learned the basics of tmux. With its powerful features, tmux can signific
 
 
 
--  [tmuxchatsheet.com](https://tmuxcheatsheet.com)
+-  [tmuxcheatsheet.com](https://tmuxcheatsheet.com)
