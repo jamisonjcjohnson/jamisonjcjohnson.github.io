@@ -6,7 +6,7 @@ description: We'll delve into the details of GitHub Codespaces, exploring its fu
 intro: "GitHub Codespaces represents a paradigm shift in modern software development, offering a streamlined and collaborative development experience."
 lang: en_US
 image: "/static/assets/img/blog/2024/github_codespaces_overview/github_codespaces_overview.jpg"
-keywords: github,codesapces,reviews
+keywords: github,codespaces,reviews
 categories:
 - Reviews
 tags:
