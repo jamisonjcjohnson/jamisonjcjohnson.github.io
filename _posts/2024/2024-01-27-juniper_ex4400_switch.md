@@ -17,10 +17,6 @@ tags:
 icon: fa-server
 ---
 
-![Deep Dive into the Juniper EX4400-48P Networking Switch](/static/assets/img/blog/2024/juniper_ex4400_switch/juniper_ex4400_switch1.png)
-![Deep Dive into the Juniper EX4400-48P Networking Switch](/static/assets/img/blog/2024/juniper_ex4400_switch/juniper_ex4400_switch2.png)
-
-
 In the realm of networking, the Juniper EX4400-48P Networking Switch stands out as a powerhouse that brings together advanced features to elevate network performance. This comprehensive overview will shed light on the exceptional attributes and advantages offered by the Juniper EX4400-48P, making it a compelling choice for an evolving network infrastructure.
 
 <br>
