@@ -53,7 +53,7 @@ Scroll to the end of the file and add the following line, replacing <YourCommand
 alias custom_alias='<YourCommand>'
 ```
 
-Example, instead of running the command `sudo -u bacula /opt/bacula/bin/bconsole` to open the bconsole applciation, you can simply run `bconsole` by adding the below line to the ~./bashrc file.
+Example, instead of running the command `sudo -u bacula /opt/bacula/bin/bconsole` to open the bconsole application, you can simply run `bconsole` by adding the below line to the ~./bashrc file.
 
 
 ```bash
