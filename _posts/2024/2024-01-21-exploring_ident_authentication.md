@@ -38,35 +38,35 @@ IDENT authentication serves as a mechanism for network devices, typically router
 
 <br>
 
-#### Authentication Request:
+#### Authentication Request
 
 - **User Access Attempt:** When a user endeavors to access a network device, such as a router or switch, the device initiates an authentication request.
 - **Credential Forwarding:** The device transmits the user's credentials, which typically include a username, password, or other relevant information, to a designated authentication server, often a RADIUS server.
 
 <br>
 
-#### Server Verification:
+#### Server Verification
 
 - **Authentication Server Processing:** The RADIUS server receives the authentication request and proceeds to verify the user's credentials against its secure database.
 - **Acknowledgment:** Upon successful verification, the RADIUS server sends an acknowledgment (acceptance) back to the network device.
 
 <br>
 
-#### Access Granted/Denied:
+#### Access Granted/Denied
 
 - **Access Approval:** With the acknowledgment from the RADIUS server, the network device grants access to the user, allowing them to utilize network services.
 - **Access Rejection:** If the authentication process fails, access is denied, preventing the user from accessing the network device or its associated services.
 
 <br>
 
-## Benefits of IDENT Authentication:
+## Benefits of IDENT Authentication
 
 - **Centralized Management:** IDENT authentication enables centralized user authentication, facilitating streamlined management and control over access to network devices.
 - **Enhanced Security:** Storing and managing user credentials in a central server enhances security by reducing the risk associated with dispersed credentials on individual network devices.
 
 <br>
 
-## Protocol-Specific Configurations:
+## Protocol-Specific Configurations
 
 It's crucial to note that the specifics of the IDENT authentication method may vary based on the particular protocol implementation and the configurations set up within the network environment.
 
