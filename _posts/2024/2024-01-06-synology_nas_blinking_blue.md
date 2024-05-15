@@ -20,7 +20,7 @@ icon: fa-database
 
 Synology NAS devices are known for their reliability, but encountering issues such as the blue blinking light can be concerning for users. This light often signals various problems, and one common but critical solution is checking the power adapter.
 
-This [youtube video](https://www.youtube.com/watch?v=rES1Wwz-HdE&t=199s) helped me diagnose this problem quickly.
+This [youtube video](https://www.youtube.com/watch?v=rES1Wwz-HdE) helped me diagnose this problem quickly.
 
 <br>
 
