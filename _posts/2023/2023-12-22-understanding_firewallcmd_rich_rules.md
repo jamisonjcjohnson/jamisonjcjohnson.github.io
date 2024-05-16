@@ -149,5 +149,5 @@ These examples serve as a starting point to explore the capabilities of `firewal
 
 <br>
 
-📝 For detailed firewall-cmd commands and advanced usage, refer to the  [Firewall-cmd Manual Pages](https://firewalld.org/documentation/man-pages/firewall-cmd.html)..
+📝 For detailed firewall-cmd commands and advanced usage, refer to the  [Firewall-cmd Manual Pages](https://firewalld.org/documentation/man-pages/firewall-cmd.html).
 
