@@ -21,7 +21,7 @@ icon: fa-linux
 
 SSH Agent Forwarding is a powerful feature that enhances remote access security by allowing the use of private SSH keys locally without exposing them to remote servers. Let's delve into SSH Agents, what Agent Forwarding is, and how to configure it for secure remote access.
 
-This article assumes that you already know how to generate a public key by using the `#ssh-keygen` command, and a passphrase was assign to this public key. Also, it assumes that you have already copied your public key to the remove server via the `#ssh-copy-id –i ~/.ssh/id_rsa.pub username@IPADDRESS
+This article assumes that you already know how to generate a public key by using the `#ssh-keygen` command, and a passphrase was assign to this public key. Also, it assumes that you have already copied your public key to the remote server via the `#ssh-copy-id –i ~/.ssh/id_rsa.pub username@IPADDRESS
 ` command. 
 
 <br>
@@ -107,7 +107,7 @@ To verify SSH Forwarding, add your local machine's public key to your remote ser
 ssh username@serveraddress
 ```
 
-You should now be able to access the remote server without a passphrase, even though the passphrase is still attached to the private key. If you wan to **confirm** that the passphrase is still attached to the private key run the following command : 
+You should now be able to access the remote server without a passphrase, even though the passphrase is still attached to the private key. If you want to **confirm** that the passphrase is still attached to the private key run the following command : 
 
 ```bash
 ssh-keygen -y -f ~/.ssh/id_rsa
