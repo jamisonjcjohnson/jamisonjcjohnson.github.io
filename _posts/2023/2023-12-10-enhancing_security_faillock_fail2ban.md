@@ -126,8 +126,7 @@ findtime = 1
 | findtime     | Defines the time window within which maxretry failures or matches are counted. Set to 1 (possibly 1 second or 1 minute). |
 
 
-
-
+<br>
 
 Then we will add the below to the bottom of the config file : 
 
@@ -170,7 +169,7 @@ Always ensure the `logpath` points to the correct log file for the service you i
 | maxretry = 3           | Sets the maximum number of retries or failed login attempts allowed before triggering the defined action.                        |
 | bantime = 3600         | Defines the duration for which an IP address will be banned (in seconds).                                                        |
 
-
+<br>
 
 After making changes in the `jail.conf` file, remember to restart fail2ban for the configurations to take effect:
 ```bash
@@ -191,7 +190,7 @@ In this example the name of the jail is `automatic-ban` so the command would be
 sudo fail2ban-client status automatic-ban
 ```
 
-This commnand will display various information about the ban, including how many IPs are currently banned and a list of all IPs that are banned. 
+This command will display various information about the ban, including how many IPs are currently banned and a list of all IPs that are banned. 
 
 
 ![Enhancing Security with faillock and fail2ban2](/static/assets/img/blog/2023/enhancing_security_faillock_fail2ban/enhancing_security_faillock_fail2ban2.png)
