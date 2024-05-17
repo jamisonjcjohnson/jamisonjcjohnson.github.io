@@ -88,4 +88,4 @@ Congratulations! You've successfully obtained a Red Hat Developer Subscription, 
 
 <br>
 
-📝 For more detailed instructions and information, you can refer to the official [Official RedHat documentation](https://developers.redhat.com/articles/getting-red-hat-developer-subscription-what-rhel-users-need-know?source=sso#updated_development_tools__red_hat_software_collections). 
+📝 For more detailed instructions and information, you can refer to the official [RedHat documentation](https://developers.redhat.com/articles/getting-red-hat-developer-subscription-what-rhel-users-need-know?source=sso#updated_development_tools__red_hat_software_collections). 
