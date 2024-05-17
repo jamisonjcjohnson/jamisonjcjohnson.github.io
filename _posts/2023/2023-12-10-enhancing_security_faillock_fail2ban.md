@@ -194,7 +194,7 @@ sudo fail2ban-client status automatic-ban
 This commnand will display various information about the ban, including how many IPs are currently banned and a list of all IPs that are banned. 
 
 
-![Enhancing Security with faillock and fail2ban2](/static/assets/img/blog/2023/enhancing_security_faillock_fail2ban/enhancing_security_faillock_fail2ban2.jpg)
+![Enhancing Security with faillock and fail2ban2](/static/assets/img/blog/2023/enhancing_security_faillock_fail2ban/enhancing_security_faillock_fail2ban2.png)
 
 <br>
 
