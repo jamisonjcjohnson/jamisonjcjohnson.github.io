@@ -25,7 +25,7 @@ Are you a Mac user looking to streamline your workflow and boost productivity? L
 
 <br>
 
-## **Launcher and Search**
+## Launcher and Search
 
 At its core, Alfred acts as a launcher and search tool, allowing you to quickly access applications, files, and folders on your Mac. Invoke Alfred with a hotkey and start typing the name of what you're looking for to launch applications or find files instantly.
 
@@ -37,19 +37,19 @@ Alfred's workflows enable automation and customization tailored to your needs. C
 
 <br>
 
-## **Clipboard History and Snippets**
+## Clipboard History and Snippets
 
 Never lose track of copied content again! Alfred's Clipboard History feature keeps a record of items you've copied, allowing you to access previously copied text, images, or files. Additionally, you can create text snippets for frequently used phrases or responses.
 
 <br>
 
-## **System Commands and Extensions**
+## System Commands and Extensions
 
 Alfred extends beyond simple file searching. Use it to execute system commands, perform calculations, control music playback, and even search the web or specific websites directly from the app.
 
 <br>
 
-## **Themes and Appearance**
+## Themes and Appearance
 
 Personalize Alfred's appearance with different themes and layouts. Choose from various pre-designed themes or create your own to match your style and preferences.
 
