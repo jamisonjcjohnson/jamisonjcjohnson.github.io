@@ -48,8 +48,6 @@ yum install freerdp
 
 Press `Y` and then `Enter` to allow the installation to complete. 
 
-![rdp_from_linux_terminal2](/static/assets/img/blog/2023/rdp_from_linux_terminal/rdp_from_linux_terminal2.png)
-
 <br>
 
 ## Steps to Connect to a Remote Windows System
@@ -74,8 +72,6 @@ After entering the command, you will be prompted to enter your Windows password.
 You may be prompted to `trust the above certificate` press `Y` then `Enter`
 
 If the credentials are correct, you will be connected to the remote Windows machine, and the Windows desktop will appear within your Linux terminal.
-
-![rdp_from_linux_terminal3](/static/assets/img/blog/2023/rdp_from_linux_terminal/rdp_from_linux_terminal3.png)
 
 <br>
 
