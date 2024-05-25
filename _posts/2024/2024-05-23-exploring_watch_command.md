@@ -75,4 +75,4 @@ Experiment with different commands and options to discover how watch can enhance
 
 <br>
 
-📝 For more information about the `watch` command, you can refer to the [Linux Man Page](https://linux.die.net/man/1/watch) for this command. 
+📝 For more information about the `watch` command, you can refer to the [Linux Man Page](https://linux.die.net/man/1/watch) for this command!
