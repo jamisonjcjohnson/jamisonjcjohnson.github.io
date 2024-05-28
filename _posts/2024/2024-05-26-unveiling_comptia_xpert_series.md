@@ -73,4 +73,4 @@ The launch of the CompTIA Xpert Series certifications marks an exciting developm
 
 <br>
 
-📝 For more information about the CompTIA Xpert Series certifications, you can refer to the official [CompTIA website](https://www.comptia.org/certifications/xpert-series#overview). 
+📝 For more information about the CompTIA Xpert Series certifications, you can refer to the official [CompTIA website](https://www.comptia.org/certifications/xpert-series#overview).
