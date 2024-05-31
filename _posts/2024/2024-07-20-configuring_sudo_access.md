@@ -1,7 +1,7 @@
 ---
 title: Configuring Sudo Access - Wheel Group vs. /etc/sudoers.d/USERNAME File
 layout: post
-date: '2024-05-30'
+date: '2024-07-20'
 description: Proper configuration of `sudo` access is crucial for system security and administration.
 intro: "Both the wheel group and /etc/sudoers.d/ directory methods are effective for managing sudo access, but they serve different needs."
 lang: en_US
@@ -134,5 +134,7 @@ username ALL=(ALL) /usr/bin/systemctl #provides the user access to run all syste
 Both the wheel group and /etc/sudoers.d/ directory methods are effective for managing sudo access, but they serve different needs. The wheel group offers simplicity and ease of use for uniform sudo access, while the /etc/sudoers.d/ directory provides more granular control and flexibility. By understanding the strengths and limitations of each method, system administrators can choose the best approach for their specific environment, ensuring a balance between usability and security.
 
 Whether you manage a small team or a large organization, configuring sudo access properly is a critical task that can enhance both security and operational efficiency. Choose the method that aligns with your administrative needs and security policies to maintain a robust and secure system.
+
+<br>
 
 📝 For more information and specific details about managing sudo access, refer to this [Redhat article](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/configuring_basic_system_settings/managing-sudo-access_configuring-basic-system-settings).
