@@ -1,7 +1,7 @@
 ---
 title: Understanding the Difference Between LAMP and LEMP Web Stacks - Which is Preferred?
 layout: post
-date: '2024-05-30'
+date: '2024-07-13'
 description: When it comes to building and deploying web applications, choosing the right stack is crucial for performance, scalability, and ease of development.
 intro: "By understanding the differences between these stacks, you can make an informed decision that aligns with your project’s needs and goals."
 lang: en_US
@@ -62,6 +62,8 @@ The `LAMP` stack has been a staple in web development for many years. It is an o
 1. **Maturity and Stability**: Each component of the `LAMP` stack is well-established and has a large community of users and developers.
 2. **Flexibility**: The stack is highly customizable and can be tailored to meet specific requirements.
 3. **Wide Support**: Extensive documentation and community support make it easier to find solutions to common problems.
+
+<br>
 
 ## The LEMP Stack
 
