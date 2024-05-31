@@ -95,4 +95,4 @@ If you're ready to dive deeper and master the art of DevOps, join us and take th
 
 <br>
 
-📝 For more information and specific details abou the DevOps process, refer to this [article](https://atlasiko.com/blog/devops/devops-process-step-by-step/). This article from [Atlassian](https://www.atlassian.com/microservices/cloud-computing/infrastructure-as-code) has great details concerning infrastrucutre as code (IAC) as well, which is a key component of DevOps.
+📝 For more information and specific details about the DevOps process, refer to this [article](https://atlasiko.com/blog/devops/devops-process-step-by-step/). This article from [Atlassian](https://www.atlassian.com/microservices/cloud-computing/infrastructure-as-code) has great details concerning infrastrucutre as code (IAC) as well, which is a key component of DevOps.
