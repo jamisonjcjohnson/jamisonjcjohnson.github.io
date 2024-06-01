@@ -1,7 +1,7 @@
 ---
 title: Monitoring User Logins on a RHEL Server
 layout: post
-date: '2024-05-31'
+date: '2024-07-27'
 description: Keeping track of user login activities on your Red Hat Enterprise Linux (RHEL) server is essential for maintaining security and accountability.
 intro: "Monitoring these logs regularly helps in identifying unauthorized access attempts and maintaining overall system security."
 lang: en_US
