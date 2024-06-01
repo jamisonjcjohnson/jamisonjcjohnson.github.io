@@ -10,7 +10,7 @@ keywords: linux,rhel,security,permissions
 categories:
 - Linux
 tags:
-- Linux
+- linux
 - rhel
 - security
 - permissions
