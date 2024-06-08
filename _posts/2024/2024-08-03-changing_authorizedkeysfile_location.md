@@ -1,7 +1,7 @@
 ---
 title: Changing the Default Location of the AuthorizedKeysFile
 layout: post
-date: '2024-06-07'
+date: '2024-08-03'
 description: Changing the default location of the AuthorizedKeysFile can significantly enhance the security of your SSH setup by making it more difficult for attackers to locate and manipulate the file.
 intro: "This blog post will explain how to change the default location of the `AuthorizedKeysFile` and why doing so can enhance the security of your server."
 lang: en_US
@@ -98,7 +98,7 @@ sudo systemctl restart sshd
 <br>
 
 ### 6. Verify the Configuration
-Test the configuration by attempting to log in with SSH to ensure that the new AuthorizedKeysFile location is being used correctly.
+Test the configuration by attempting to log in with SSH to ensure that the new `AuthorizedKeysFile` location is being used correctly.
 
 <br>
 
