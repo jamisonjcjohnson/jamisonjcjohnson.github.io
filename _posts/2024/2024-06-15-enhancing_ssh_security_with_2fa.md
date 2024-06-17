@@ -118,7 +118,7 @@ Investing in robust security measures like 2FA is not only a proactive step towa
 
 <br>
 
-📝 For more information about the 2FA, you can refer to [this Cloudflare article](https://www.cloudflare.com/learning/security/two-factor-authentication/)
+📝 For more information about the 2FA, you can refer to [this Cloudflare article](https://www.cloudflare.com/learning/security/two-factor-authentication/).
 
 
 
