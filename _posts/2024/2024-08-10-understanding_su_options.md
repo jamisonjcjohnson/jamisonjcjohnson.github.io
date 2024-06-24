@@ -1,7 +1,7 @@
 ---
 title: Understanding the Difference Between `sudo su - testuser` and `sudo -iu testuser`
 layout: post
-date: '2024-06-23'
+date: '2024-08-10'
 description: When managing a Linux system, especially as an administrator, you often need to switch user accounts to perform tasks with different permissions.
 intro: "This blog post will explore differences in these switch user commands, including potential security implications and best practices."
 lang: en_US
@@ -122,5 +122,7 @@ Both commands set up the environment as if `testuser` had logged in directly. Ho
 While both commands achieve the same end result, understanding these differences helps in making informed decisions about security and system administration practices.
 
 By choosing the more secure and efficient command, you can ensure better management of user privileges and enhance the overall security of your Linux systems.
+
+<br>
 
 📝 For more information and specific details about the `su` command, refer to [su man page](https://linux.die.net/man/1/su).
