@@ -20,6 +20,8 @@ icon: fa-linux
 
 When working with text files in Linux, you might often need to replace multiple instances of a word with another word. One of the most powerful tools for this task is Vi (or Vim), a versatile and widely-used text editor. In this post, we'll explore how to efficiently replace words using Vi.
 
+<br>
+
 ## Replacing Words with Vi
 
 Vi provides a powerful search and replace functionality. The command for replacing words throughout the entire file is:
@@ -36,6 +38,8 @@ Let's break down this command:
 - `replacementword` – This is the word that will replace oldword.
 - `/g` – This global flag ensures that all occurrences of oldword on each line are replaced. Without this flag, only the first occurrence on each line would be replaced.
 
+<br>
+
 ## Step-by-Step Guide
 
 - Open the File in Vi: Start by opening your file in Vi. For example:
@@ -50,6 +54,8 @@ vi filename.txt
    - Type `:%s/oldword/replacementword/g` and press `Enter`.
    - Vi will then search the entire file and replace every occurrence of `oldword` with `replacementword`.
 
+
+<br>
 
 ### Example
 Suppose you have a file example.txt with the following content:
@@ -82,6 +88,8 @@ The `swift` brown fox jumps over the lazy dog.
 The `swift` brown fox is very `swift` and very clever.
 ```
 
+<br>
+
 ## Additional Tips
 
 - Case Sensitivity: By default, the search is case-sensitive. To perform a **case-insensitive** search and replace, add the `i` flag like this:
@@ -102,10 +110,11 @@ The `swift` brown fox is very `swift` and very clever.
 :10,20s/oldword/replacementword/g
 ```
 
+<br>
+
 ## Conclusion
 
 Using Vi to replace words in a file is a quick and powerful way to edit text in Linux. The `:%s/oldword/replacementword/g` command allows you to perform global replacements efficiently. With additional flags and options, you can customize the search and replace functionality to suit your needs.
-
 
 <br>
 
