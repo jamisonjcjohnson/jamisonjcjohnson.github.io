@@ -1,7 +1,7 @@
 ---
 title: Using Vi to Replace Multiple Words in a Linux File
 layout: post
-date: '2024-06-23'
+date: '2024-08-17'
 description: Using Vi to replace words in a file is a quick and powerful way to edit text in Linux.
 intro: "In this post, we'll explore how to efficiently replace words using Vi."
 lang: en_US
