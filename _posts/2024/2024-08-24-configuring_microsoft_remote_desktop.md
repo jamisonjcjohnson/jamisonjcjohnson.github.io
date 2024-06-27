@@ -16,7 +16,7 @@ icon: fa-apple
 ---
 
 
-MacAdmins and IT professionals often seek streamlined methods for deploying software across multiple systems without relying on user intervention or third-party platforms like the Mac App Store. Responding to this need, Microsoft has made its Remote Desktop application available as a standalone installer, independent of the App Store.
+System administrators and IT professionals often seek streamlined methods for deploying software across multiple systems without relying on user intervention or third-party platforms like the Mac App Store. Responding to this need, Microsoft has made its Remote Desktop application available as a standalone installer, independent of the App Store.
 
 <br>
 
@@ -26,7 +26,7 @@ The standalone installer for Microsoft Remote Desktop provides several benefits:
 
 - **Ease of Deployment**: Admins can distribute the application using standard package management tools without requiring users to interact with the Mac App Store.
 - **Consistent Updates**: The standalone version can be kept up-to-date via Microsoft AutoUpdate, ensuring it stays in sync with the App Store releases.
-- **Streamlined Management**: This method aligns with how other software packages are managed, simplifying the workflow for MacAdmins.
+- **Streamlined Management**: This method aligns with how other software packages are managed, simplifying the workflow for System administrators.
 
 <br>
 
