@@ -1,7 +1,7 @@
 ---
 title: Configuring Microsoft Remote Desktop Outside of the App Store
 layout: post
-date: '2024-06-26'
+date: '2024-08-24'
 description: Microsoft has made its Remote Desktop application available as a standalone installer, independent of the App Store.
 intro: "The availability of Microsoft Remote Desktop as a standalone installer is a significant improvement for System Administrators."
 lang: en_US
