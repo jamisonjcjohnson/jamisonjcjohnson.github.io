@@ -5,7 +5,7 @@ date: '2024-06-28'
 description: Hyper-V remains a key player in the business and enterprise virtualization market.
 intro: "In this blog post, we will explain why Hyper-V remains a viable and powerful option for virtualization."
 lang: en_US
-image: "/static/assets/img/blog/2024/icloud_private_relay/icloud_private_relay.jpg"
+image: "/static/assets/img/blog/2024/hyperv_not_dead/hyperv_not_dead.jpg"
 keywords: windows,windows_server,hypervisor,hyper-v
 categories:
 - Windows
