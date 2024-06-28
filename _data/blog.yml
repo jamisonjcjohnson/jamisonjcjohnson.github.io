@@ -25,8 +25,8 @@
 - name: Other
   href: /other/
 
-- name: Small Business
-  href: /smallbusiness/
+- name: Business
+  href: /business/
   
 # Don't display donation page: change donation to off at file '_config.yml'
 - name: Donate
