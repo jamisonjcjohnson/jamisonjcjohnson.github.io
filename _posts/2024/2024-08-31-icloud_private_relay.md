@@ -1,11 +1,11 @@
 ---
 title: Understanding iCloud Private Relay
 layout: post
-date: '2024-06-27'
+date: '2024-08-31'
 description: Apple has introduced iCloud Private Relay, a feature designed to protect user privacy and enhance security while browsing the internet.
 intro: "Here’s a closer look at what iCloud Private Relay is, how it works, and why it’s important for your digital life."
 lang: en_US
-image: "/static/assets/img/blog/2024/configuring_microsoft_remote_desktop/configuring_microsoft_remote_desktop.jpg"
+image: "/static/assets/img/blog/2024/icloud_private_relay/icloud_private_relay.jpg"
 keywords: macos,security
 categories:
 - Macos
@@ -25,18 +25,13 @@ In an age where online privacy is becoming increasingly crucial, Apple has intro
 
 <br>
 
-* [What is iCloud Private Relay?](#whatis)
-* [How Does iCloud Private Relay Work?](#howdoes)
-
-
-
-## What is iCloud Private Relay? {#whatis}
+## What is iCloud Private Relay?
 
 iCloud Private Relay is a privacy feature included with an iCloud+ subscription that helps protect your internet privacy. When enabled, it ensures that your web browsing activity in Safari is encrypted and that your IP address and location are masked from trackers and websites.
 
 <br>
 
-## How Does iCloud Private Relay Work? {#howdoes}
+## How Does iCloud Private Relay Work?
 
 iCloud Private Relay uses a dual-hop architecture to protect your privacy:
 
