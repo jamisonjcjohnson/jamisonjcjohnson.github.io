@@ -20,6 +20,11 @@ System administrators and IT professionals often seek streamlined methods for de
 
 <br>
 
+* TOC 
+{:toc}
+
+<br>
+
 ## Why Use the Standalone Installer?
 
 The standalone installer for Microsoft Remote Desktop provides several benefits:

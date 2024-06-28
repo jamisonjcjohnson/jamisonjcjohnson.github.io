@@ -23,6 +23,11 @@ When managing a Linux system, especially as an administrator, you often need to 
 
 <br>
 
+* TOC 
+{:toc}
+
+<br>
+
 ## Command Breakdown
 
 <br>

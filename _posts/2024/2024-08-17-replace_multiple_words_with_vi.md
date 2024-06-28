@@ -22,6 +22,11 @@ When working with text files in Linux, you might often need to replace multiple 
 
 <br>
 
+* TOC 
+{:toc}
+
+<br>
+
 ## Replacing Words with Vi
 
 Vi provides a powerful search and replace functionality. The command for replacing words throughout the entire file is:

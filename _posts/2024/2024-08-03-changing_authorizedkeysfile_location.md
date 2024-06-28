@@ -24,6 +24,11 @@ In SSH (Secure Shell) configurations, the `AuthorizedKeysFile` is a critical fil
 
 <br>
 
+* TOC 
+{:toc}
+
+<br>
+
 ## Why Change the Default Location?
 
 The default location of the `AuthorizedKeysFile` is widely known, which can be a potential security risk. Attackers who gain access to a user's home directory can easily locate and tamper with the `.ssh/authorized_keys` file. Changing the location of this file can obscure its presence, adding an additional layer of security. Here are some key reasons to consider changing the default location:
