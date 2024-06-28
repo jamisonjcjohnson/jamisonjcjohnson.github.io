@@ -16,14 +16,17 @@
 - name: Linux
   href: /linux/
   
-- name: Tools
-  href: /tools/
+#- name: Tools
+#  href: /tools/
 
 - name: Reviews
   href: /reviews/
 
 - name: Other
   href: /other/
+
+- name: Small Business
+  href: /smallbusiness/
   
 # Don't display donation page: change donation to off at file '_config.yml'
 - name: Donate
