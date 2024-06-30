@@ -1,7 +1,7 @@
 ---
 title: How to Install VirtualBox on macOS
 layout: post
-date: '2024-06-30'
+date: '2024-09-14'
 description: VirtualBox is a widely-used, cross-platform virtualization software that allows you to create and manage virtual machines (VMs) on your Mac.
 intro: "We will guide you through the process of installing VirtualBox on macOS, ensuring you have everything set up for your virtualization needs."
 lang: en_US
