@@ -1,7 +1,7 @@
 ---
 title: Understanding Network Information Service (NIS) and Its Future in Red Hat
 layout: post
-date: '2024-06-30'
+date: '2024-09-21'
 description: Network Information Service (NIS), originally known as Yellow Pages (YP), is a client-server directory service protocol for distributing system configuration data such as user and host names between computers on a network.
 intro: "By using NIS, system administrators could maintain consistent user and host information across multiple machines, simplifying the management of networked environments."
 lang: en_US
