@@ -2,10 +2,10 @@
 title: The DevOps Toolkit - A Comprehensive Guide
 layout: post
 date: '2024-07-06'
-description: If you're spending a lot of time in the terminal and haven't yet explored the wonders of tmux, you're missing out. If you're not already using Team UX (tmux), it's time to start.
-intro: "Whether you're a developer, system administrator, or anyone who spends a significant amount of time in the terminal, integrating tmux into your toolkit is sure to elevate your command-line experience to new heights."
+description: DevOps has revolutionized the way software development and operations teams work together, creating a more streamlined and efficient process for delivering software.
+intro: "In this blog post, we'll explore the essential tools and concepts that form the backbone of DevOps, helping you understand how they fit together to create a seamless workflow."
 lang: en_US
-image: "/static/assets/img/blog/2024/understanding_tmux/understanding_tmux.jpg"
+image: "/static/assets/img/blog/2024/devops_toolkit_guide/devops_toolkit_guide.jpg"
 keywords: devops,process
 categories:
 - Other
