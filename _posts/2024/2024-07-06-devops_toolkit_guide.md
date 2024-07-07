@@ -91,7 +91,7 @@ Building effective DevOps processes requires a deep understanding of how to inte
 
 Understanding the underlying concepts and best practices is essential, as it allows you to adapt and replace tools as needed. Our DevOps Bootcamp and upcoming DevSecOps course are designed to teach you how to build comprehensive DevOps processes, providing the knowledge and skills to tackle real-world challenges effectively. 
 
-If you're ready to dive deeper and master the art of DevOps, join us and take the next step in your journey towards becoming a proficient DevOps engineer.
+If you're ready to dive deeper and master the art of DevOps, join us and take the next step in your journey towards becoming a proficient DevOps engineer!
 
 <br>
 
