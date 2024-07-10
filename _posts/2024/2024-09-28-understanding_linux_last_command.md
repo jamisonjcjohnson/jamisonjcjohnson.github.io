@@ -1,7 +1,7 @@
 ---
 title: Understanding Linux Last Command
 layout: post
-date: '2024-07-10'
+date: '2024-09-28'
 description: The `last` command in Linux is a simple yet powerful tool used to display the login history of users on a system.
 intro: "The `last` command offers a detailed view of login sessions and system reboot."
 lang: en_US
