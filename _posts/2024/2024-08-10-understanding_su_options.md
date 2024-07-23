@@ -17,8 +17,6 @@ icon: fa-linux
 ---
 
 
-## Introduction
-
 When managing a Linux system, especially as an administrator, you often need to switch user accounts to perform tasks with different permissions. Two common commands for switching users are `sudo su - testuser` and `sudo -iu testuser`. While they may seem similar, there are subtle but important differences between them. This blog post will explore differences in these switch user commands, including potential security implications and best practices.
 
 <br>

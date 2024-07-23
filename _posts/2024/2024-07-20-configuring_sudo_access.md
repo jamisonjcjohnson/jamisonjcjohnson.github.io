@@ -17,8 +17,6 @@ tags:
 icon: fa-linux
 ---
 
-## Introduction
-
 In Unix-like operating systems, granting a user elevated privileges can be achieved using the `sudo` command. Proper configuration of `sudo` access is crucial for system security and administration. Two common methods for configuring `sudo` access are using the `wheel` group and creating specific files in the `/etc/sudoers.d/` directory. This post will compare these two methods, discussing their advantages, disadvantages, and best use cases.
 
 <br>

@@ -18,8 +18,6 @@ icon: fa-linux
 ---
 
 
-## Introduction
-
 In SSH (Secure Shell) configurations, the `AuthorizedKeysFile` is a critical file that specifies the location of public keys used for user authentication. By default, this file is located in the user's home directory under `.ssh/authorized_keys`. However, for security reasons, you might want to change the default location of this file. This blog post will explain how to change the default location of the `AuthorizedKeysFile` and why doing so can enhance the security of your server.
 
 <br>

@@ -16,8 +16,6 @@ tags:
 icon: fa-linux
 ---
 
-## Introduction
-
 When working with text files in Linux, you might often need to replace multiple instances of a word with another word. One of the most powerful tools for this task is Vi (or Vim), a versatile and widely-used text editor. In this post, we'll explore how to efficiently replace words using Vi.
 
 <br>

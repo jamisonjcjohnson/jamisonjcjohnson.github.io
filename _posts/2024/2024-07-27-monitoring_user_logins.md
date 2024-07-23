@@ -17,8 +17,6 @@ tags:
 icon: fa-linux
 ---
 
-## Introduction
-
 As a system administrator, keeping track of user login activities on your Red Hat Enterprise Linux (RHEL) server is essential for maintaining security and accountability. RHEL provides several commands that allow you to monitor and review login sessions, both successful and failed. This blog post will guide you through some of the most useful commands for tracking user logins on your RHEL server.
 
 <br>
