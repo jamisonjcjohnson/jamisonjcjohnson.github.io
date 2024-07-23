@@ -1,17 +1,17 @@
 ---
 title: Exploring the Linux Locate Command
 layout: post
-date: '2024-07-23'
+date: '2024-10-05'
 description: The `locate` command in Linux is a fast and efficient utility used to find the location of files and directories on the system.
 intro: "The `locate` command is a powerful and efficient tool for quickly finding files and directories on a Linux system."
 lang: en_US
 image: "/static/assets/img/blog/2024/exploring_linux_locate_command/exploring_linux_locate_command.jpg"
-keywords: linux,authentication
+keywords: linux,search
 categories:
 - Linux
 tags:
 - linux
-- authentication
+- search
 icon: fa-linux
 ---
 
@@ -63,6 +63,8 @@ After installation, update the database with the following command:
 ```bash
 sudo updatedb
 ```
+
+<br>
 
 ## Common Use Cases
 
