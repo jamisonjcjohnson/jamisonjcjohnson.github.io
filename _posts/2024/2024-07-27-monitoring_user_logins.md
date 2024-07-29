@@ -108,4 +108,4 @@ Understanding and utilizing these tools effectively allows you to manage user ac
 
 <br>
 
-📝 For more information and specific details about monitoring user logins, refer to this [Redhat article](https://www.redhat.com/sysadmin/monitor-users-linux).
+📝 For more information and specific details about monitoring user logins in RHEL, refer to this [Redhat article](https://www.redhat.com/sysadmin/monitor-users-linux).
