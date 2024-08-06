@@ -53,7 +53,11 @@ For Red Hat-based systems (RHEL, Fedora, CentOS), use:
 sudo dnf install screen
 ```
 
+<br>
+
 ## Common Use Cases
+
+<br>
 
 ### Starting a New Screen Session
 
@@ -65,9 +69,13 @@ screen
 
 This will open a new screen session, and you will be placed in a new shell.
 
+<br>
+
 ### Detaching from a Session
 
 To detach from the current screen session without terminating it, press `Ctrl-A` followed by `Ctrl-D`. You will be returned to the original terminal, and the screen session will continue running in the background.
+
+<br>
 
 ### Reattaching to a Session
 
@@ -89,6 +97,8 @@ Then, reattach to a specific session by its ID:
 screen -r <session_id>
 ```
 
+<br>
+
 ### Naming Screen Sessions
 
 To make it easier to manage multiple sessions, you can name them using the `-S` option:
@@ -103,19 +113,26 @@ You can then reattach to this session by name:
 screen -r mysession
 ```
 
+<br>
+
 ### Splitting the Screen
 The `screen` command allows you to split the terminal window into multiple regions. To split the screen horizontally, press `Ctrl-A` followed by `S`. To split it vertically, press `Ctrl-A` followed by `|`.
 
 To switch between regions, press `Ctrl-A` followed by `Tab`.
 
+<br>
+
 ### Creating Windows
 
 You can create multiple windows within a screen session. To create a new window, press `Ctrl-A` followed by `C`. To switch between windows, press `Ctrl-A` followed by the window number (e.g., 0, 1, 2, etc.).
+
+<br>
 
 ### Closing a Window
 
 To close the current window, simply exit the shell within that window by typing `exit`.
 
+<br>
 
 ## Example Usage
 Here are some practical examples of using the screen command:
