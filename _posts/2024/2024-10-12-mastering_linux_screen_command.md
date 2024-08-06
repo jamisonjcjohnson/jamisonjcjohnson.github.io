@@ -1,7 +1,7 @@
 ---
 title: Mastering the `screen` Command in Linux
 layout: post
-date: '2024-08-06'
+date: '2024-10-12'
 description: The `screen` command in Linux is a terminal multiplexer that allows you to manage multiple terminal sessions from a single window.
 intro: "The `screen` command enables you to create, manage, and navigate between multiple terminal sessions within a single window." 
 lang: en_US
