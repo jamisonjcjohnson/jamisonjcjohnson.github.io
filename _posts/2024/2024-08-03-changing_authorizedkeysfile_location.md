@@ -109,4 +109,4 @@ Test the configuration by attempting to log in with SSH to ensure that the new `
 
 Changing the default location of the AuthorizedKeysFile can significantly enhance the security of your SSH setup by making it more difficult for attackers to locate and manipulate the file. This simple change, combined with other security best practices, can help protect your server from unauthorized access. Implement this strategy to add an extra layer of security to your SSH configuration and reduce the risk of compromise.
 
-By taking proactive steps to secure your authentication files, you can maintain a robust security posture and safeguard your server from potential threats.
+By taking proactive steps to secure your authentication files, you can maintain an elite security posture and safeguard your server from potential threats.
