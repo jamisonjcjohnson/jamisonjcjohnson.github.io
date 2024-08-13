@@ -1,5 +1,5 @@
 ---
-title: Understanding the Difference Between `sudo su - testuser` and `sudo -iu testuser`
+title: Understanding the Difference Between Switch User Commands
 layout: post
 date: '2024-08-10'
 description: When managing a Linux system, especially as an administrator, you often need to switch user accounts to perform tasks with different permissions.
