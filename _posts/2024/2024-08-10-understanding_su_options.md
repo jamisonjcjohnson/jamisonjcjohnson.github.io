@@ -128,4 +128,4 @@ By choosing the more secure and efficient command, you can ensure better managem
 
 <br>
 
-📝 For more information and specific details about the `su` command, refer to [su man page](https://linux.die.net/man/1/su).
+📝 For more information and specific details about the `su` command, refer to [su man page](https://linux.die.net/man/1/su)!
