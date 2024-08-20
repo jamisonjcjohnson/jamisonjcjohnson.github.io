@@ -88,8 +88,6 @@ In this guide, we’ll walk you through the process of using 7-Zip to password-p
 
 Using 7-Zip to password-protect your ZIP files is a simple yet effective way to secure your sensitive information. By following the steps outlined above, you can ensure that your files are protected and accessible only to those who have the correct password.
 
-If you have any questions or run into issues, feel free to leave a comment below!
-
 
 <br>
 
