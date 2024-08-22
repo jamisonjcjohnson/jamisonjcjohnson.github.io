@@ -1,7 +1,7 @@
 ---
 title: Securing SSH Access - Disabling Password Authentication vs. Locking User Accounts
 layout: post
-date: '2024-08-22'
+date: '2024-10-19'
 description: When it comes to securing SSH access on a Linux system, two effective methods are disabling password authentication and locking user accounts.
 intro: "When it comes to securing SSH access on a Linux system, two effective methods are disabling password authentication and locking user accounts." 
 lang: en_US

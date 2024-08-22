@@ -1,7 +1,7 @@
 ---
 title: How to Password-Protect a ZIP Folder in Windows Using 7-Zip
 layout: post
-date: '2024-08-20'
+date: '2024-10-26'
 description: 7-Zip is a great tool to password protect zip folders.
 intro: "Whether you’re sharing confidential files with colleagues or backing up important data, ensuring that only authorized individuals can access your files is essential." 
 lang: en_US
