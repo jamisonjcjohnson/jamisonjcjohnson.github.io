@@ -1,7 +1,7 @@
 ---
 title: Creating Custom Commands with Scripts in `/usr/local/bin`
 layout: post
-date: '2024-08-22'
+date: '2024-11-02'
 description: The ability to create custom commands allows you to streamline your workflow by automating repetitive tasks or creating shortcuts for complex commands.
 intro: "In this blog post, we'll break down how to create these custom scripts to improve your workflow." 
 lang: en_US
