@@ -86,4 +86,4 @@ Stay informed and make sure to base your decisions on accurate information. Hype
 
 <br>
 
-📝 For more information about the Hyper-V role on Windows server, review [this Microsoft article](https://learn.microsoft.com/en-us/windows-server/virtualization/hyper-v/hyper-v-on-windows-server).
+📝 For more information about the Hyper-V role on Windows server, review [this Microsoft article](https://learn.microsoft.com/en-us/windows-server/virtualization/hyper-v/hyper-v-on-windows-server)!
