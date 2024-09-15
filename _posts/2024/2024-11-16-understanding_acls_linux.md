@@ -1,7 +1,7 @@
 ---
 title: Understanding ACLs in Linux
 layout: post
-date: '2024-08-26'
+date: '2024-09-15'
 description: Traditional file permissions (read, write, execute) may not always provide the fine-grained access control you need, especially in shared environments.
 intro: "This post outlines how to use these commands to better manage access permissions on your Linux system." 
 lang: en_US
