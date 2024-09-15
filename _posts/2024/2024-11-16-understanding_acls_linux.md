@@ -53,10 +53,10 @@ setfacl [options] ACL file
 Where ACL defines the access control list entries, and file is the file or directory to which you are applying the ACL.
 
 ### Common Options:
--m or --modify: Modify an ACL entry.
--x or --remove: Remove an ACL entry.
--b or --remove-all: Remove all ACL entries.
--d or --default: Set a default ACL for new files and directories within a directory.
+`-m or --modify`: Modify an ACL entry. <br>
+`-x or --remove`: Remove an ACL entry. <br>
+`-b or --remove-all`: Remove all ACL entries. <br>
+`-d or --default`: Set a default ACL for new files and directories within a directory.
 
 <br>
 
@@ -121,13 +121,13 @@ The basic syntax of getfacl is:
 getfacl [options] file
 ```
 
-Where file is the file or directory whose ACLs you want to view.
+Where `file` is the file or directory whose ACLs you want to view.
 
 <br>
 
 ### Common Options:
---omit-header: Omit the comment header from the output.
--R or --recursive: Recursively display ACLs for all files in a directory.
+`--omit-header`: Omit the comment header from the output. <br>
+`-R or --recursive`: Recursively display ACLs for all files in a directory. <br>
 
 <br>
 
@@ -158,9 +158,9 @@ mask::r--
 other::r--
 ```
 
-<br>
-
 This shows the ACLs for the file, including the standard owner (root), group (root), and other permissions, as well as the specific ACL entry for user jane.
+
+<br>
 
 #### 2. Displaying ACLs for a Directory Recursively
 To display ACLs for all files in a directory, including subdirectories:
