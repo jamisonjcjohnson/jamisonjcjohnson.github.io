@@ -83,4 +83,4 @@ Once VirtualBox is installed, you can create a new virtual machine by clicking t
 
 <br>
 
-📝 For more information about the VirtualBox installation on MacOS, review [these alternate instructions](https://www.virtualbox.org/wiki/Mac%20OS%20X%20build%20instructions).
+📝 For more information about the VirtualBox installation on MacOS, review [these alternate instructions](https://www.virtualbox.org/wiki/Mac%20OS%20X%20build%20instructions)..
