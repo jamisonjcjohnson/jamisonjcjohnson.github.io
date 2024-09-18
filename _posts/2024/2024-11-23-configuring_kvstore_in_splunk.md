@@ -1,7 +1,7 @@
 ---
 title: Why Configuring KVStore in Splunk Properly is Important
 layout: post
-date: '2024-09-18'
+date: '2024-11-23'
 description: Configuring KVStore properly is crucial for smooth operations.
 intro: "In this post, we will explore what KVStore is, why it's so critical to Splunk, and how improper configuration can lead to disruptions in your environment." 
 lang: en_US
@@ -97,7 +97,7 @@ If KVStore is not running, restart the splunk service:
 sudo systemctl restart splunk
 ```
 
-**Review Logs**: If KVStore is not working correctly, review the MongoDB logs located in the $SPLUNK_HOME/var/log/splunk/kvstore.log file for potential issues.
+**Review Logs**: If KVStore is not working correctly, review the MongoDB logs located in the $SPLUNK_HOME/var/log/splunk/kvstore.log or whereever your logs are located for potential issues.
 
 **Backup KVStore Data**: To prevent data loss, ensure regular backups of KVStore. This is especially important if you're using KVStore for critical operational data.
 
