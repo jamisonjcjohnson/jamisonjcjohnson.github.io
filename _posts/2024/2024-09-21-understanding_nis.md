@@ -98,7 +98,7 @@ Migrating from NIS to IdM involves several steps, including:
 
 NIS has played a crucial role in Unix and Linux environments for decades, providing centralized management of user and system information. However, with the evolving needs for security and scalability, it is being phased out in favor of more modern solutions like Red Hat Identity Management. As organizations prepare for RHEL 9 and beyond, transitioning to IdM will provide a more secure and feature-rich identity management solution.
 
-By understanding the history and functionality of NIS, as well as the benefits of modern alternatives, system administrators can make informed decisions about their network management strategies.
+By understanding the history and functionality of NIS, as well as the benefits of modern alternatives, system administrators can make informed decisions about their network management strategies..
 
 <br>
 
