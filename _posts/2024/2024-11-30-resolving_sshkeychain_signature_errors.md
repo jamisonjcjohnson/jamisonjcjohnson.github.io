@@ -1,7 +1,7 @@
 ---
 title: Resolving ssh-keychain.dylib Code Signature Errors in macOS
 layout: post
-date: '2024-09-30'
+date: '2024-11-30'
 description: Re-signing the `ssh-keychain.dylib` library is a quick and effective solution to resolve this code signature error during ssh logins.
 intro: "In this post, we'll walk through a simple solution to resolve this code signature issue, ensuring a smoother experience when using your CAC for SSH authentication." 
 lang: en_US
