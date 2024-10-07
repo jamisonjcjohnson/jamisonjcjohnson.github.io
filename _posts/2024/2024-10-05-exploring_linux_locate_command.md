@@ -171,4 +171,4 @@ The `locate` command is a powerful and efficient tool for quickly finding files 
 
 <br>
 
-📝 For more information about the `locate` command, review the [locate man page](https://linux.die.net/man/1/locate).
+📝 For more information about the `locate` command, review the [locate man page](https://linux.die.net/man/1/locate)!
