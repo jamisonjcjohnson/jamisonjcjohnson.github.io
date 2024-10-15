@@ -169,4 +169,4 @@ The `screen` command is a versatile tool that enhances your command-line product
 
 <br>
 
-📝 For more information about the `screen` command, review the [screen man page](https://linux.die.net/man/1/screen).
+📝 For more information about the `screen` command, review the [screen man page](https://linux.die.net/man/1/screen)!
