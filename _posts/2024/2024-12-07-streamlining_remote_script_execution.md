@@ -158,6 +158,7 @@ ssh user@192.168.1.50 'df -h'
 The `ssh user@remote_host 'bash -s' < /my/desired/directory/myscript.sh` command is a simple but powerful tool for executing local scripts on remote systems without copying files. Whether you're managing a handful of machines or a large infrastructure, this method can greatly simplify your workflow, saving you time and avoiding unnecessary file transfers.
 
 Remember, this approach relies on having SSH key-based authentication set up between the machines. Once that's in place, you're ready to efficiently manage remote systems with just a few commands!
+
 <br>
 
 📝 For more information about this `bash` command, review this [bash man page](https://linux.die.net/man/1/bash).
