@@ -1,7 +1,7 @@
 ---
 title: Streamlining Remote Script Execution with SSH and Bash
 layout: post
-date: '2024-10-17'
+date: '2024-12-07'
 description: SSH and bash together can create some powerful tools. We will streamline a great process in this blog post.
 intro: "This guide will explain how the following command works to run a script on a remote machine without copying the script." 
 lang: en_US
