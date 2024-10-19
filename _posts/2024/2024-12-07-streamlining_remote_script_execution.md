@@ -95,7 +95,7 @@ ssh user@remote_host 'bash -s' < /my/desired/directory/myscript.sh
 - The script `myscript.sh` from your local machine is not copied to the remote machine.
 - Instead, it's streamed over the SSH connection, where it's immediately executed by the remote host's `bash` shell.
 
-Think of it like this: the local script's content is passed as if it were typed directly into the terminal session on the remote machine.
+**Think of it like this:** the local script's content is passed as if it were typed directly into the terminal session on the remote machine.
 
 <br>
 
