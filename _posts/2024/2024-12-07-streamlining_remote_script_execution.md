@@ -38,7 +38,7 @@ For this method to work, passwordless SSH authentication should already be set u
 
 <br>
 
-### Steps for SSH Key Authentication (Optional)
+### Steps for SSH Key Authentication
 
 **Generate SSH Keys:**
 If you haven't set up SSH keys, you can generate a key pair using the following command:
