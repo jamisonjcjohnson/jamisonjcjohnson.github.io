@@ -120,6 +120,7 @@ This command is particularly useful in the following scenarios:
 - **Ad-hoc Tasks:** Executing a one-off command on a remote system without the hassle of uploading the script.
 - **Multi-server Management:** Ideal when managing a fleet of servers, allowing you to quickly execute commands on several systems in succession by changing the target host in your SSH command.
 
+<br>
 
 ## Example: Running a Disk Check Remotely
 
@@ -149,6 +150,8 @@ You may also run the below command to get the same results of `df -h`, however, 
 ```bash
 ssh user@192.168.1.50 'df -h'
 ```
+
+<br>
 
 ## Conclusion
 
