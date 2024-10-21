@@ -1,7 +1,7 @@
 ---
 title: Microsoft Introduces New "Windows App" for Remote Desktop Access
 layout: post
-date: '2024-10-20'
+date: '2024-12-14'
 description: Microsoft is set to enhance the remote desktop experience with the introduction of its new Windows App
 intro: "As Microsoft rolls out the new Windows App for remote desktop access, users can expect a more flexible and feature-rich experience." 
 lang: en_US
