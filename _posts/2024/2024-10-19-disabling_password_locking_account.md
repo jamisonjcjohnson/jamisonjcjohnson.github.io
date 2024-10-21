@@ -17,7 +17,7 @@ tags:
 icon: fa-linux
 ---
 
-When it comes to securing SSH access on a Linux system, two effective methods are disabling password authentication and locking user accounts. Each approach offers distinct advantages and considerations. In this blog post, we'll break down both methods to help you choose the best option for your security needs.
+When it comes to securing SSH access on a Linux system, two effective methods are disabling password authentication and locking user accounts. Each approach offers distinct advantages and considerations. In this blog post, we'll break down both methods to help you choose the best option for your critical security needs.
 
 <br>
 
