@@ -16,7 +16,7 @@ tags:
 icon: fa-windows
 ---
 
-Microsoft is set to enhance the remote desktop experience with the introduction of its new **"Windows App,"** available for both Windows and Apple platforms. This secure remote tool allows users to access their Windows PCs from virtually any device, making it easier than ever to stay connected. This app can be downloaded from the Microsoft Store and has replaced the classic **Microsoft Remote Desktop** application on macOS and iOS devices.
+Microsoft is set to enhance the remote desktop experience with the introduction of its new **"Windows App"**, available for both Windows and Apple platforms. This secure remote tool allows users to access their Windows PCs from virtually any device, making it easier than ever to stay connected. This app can be downloaded from the Microsoft Store and has replaced the classic **Microsoft Remote Desktop** application on macOS and iOS devices.
 
 <br>
 
@@ -47,7 +47,7 @@ However, certain features, such as dynamic resolution and multi-monitor support,
 
 ## New Features and Optimizations
 
-On the [bash man page](https://learn.microsoft.com/en-us/windows-app/get-started-connect-devices-desktops-apps?tabs=windows-avd%2Cwindows-w365%2Cwindows-devbox%2Cmacos-rds%2Cmacos-pc&pivots=azure-virtual-desktop) support page for the Windows App, Microsoft has not elaborated on the reasons behind this unexpected rebranding. However, the new tool promises a host of features designed to improve user experience, including:
+On the [Windows App](https://learn.microsoft.com/en-us/windows-app/get-started-connect-devices-desktops-apps?tabs=windows-avd%2Cwindows-w365%2Cwindows-devbox%2Cmacos-rds%2Cmacos-pc&pivots=azure-virtual-desktop) support page for the Windows App, Microsoft has not elaborated on the reasons behind this unexpected rebranding. However, the new tool promises a host of features designed to improve user experience, including:
 
 - **Multi-Monitor Support**: Seamlessly connect and use multiple displays, enhancing productivity for users who need more screen real estate.
 - **Custom Display Resolutions**: Tailor the display settings to meet individual needs, allowing users to choose resolutions that fit their workflow.
