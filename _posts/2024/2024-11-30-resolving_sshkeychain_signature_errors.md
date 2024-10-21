@@ -33,7 +33,7 @@ In this post, we'll walk through a simple solution to resolve this code signatur
 When attempting to SSH into a remote server, you might see a message like this:
 
 ```bash
-dlopen /usr/local/lib/ssh-keychain.dylib failed: dlopen(/usr/local/lib/ssh-keychain.dylib, 0x0002): tried: '/usr/local/lib/ssh-keychain.dylib' (code signature invalid in <8978BDE8-8AE2-3EFE-833D-DC2C8781B6C4> '/usr/local/lib/ssh-keychain.dylib' (errno=1) sliceOffset=0x00018000, codeBlobOffset=0x0001DFC0, codeBlobSize=0x00004B40), '/System/Volumes/Preboot/Cryptexes/OS/usr/local/lib/ssh-keychain.dylib' (no such file), '/usr/local/lib/ssh-keychain.dylib' (code signature invalid in <8978BDE8-8AE2-3EFE-833D-DC2C8781B6C4> '/usr/local/lib/ssh-keychain.dylib' (errno=1) sliceOffset=0x00018000, codeBlobOffset=0x0001DFC0, codeBlobSize=0x00004B40)
+ssh -A HOSTNAME dlopen /usr/local/lib/ssh-keychain.dylib failed: dlopen(/usr/local/lib/ssh-keychain.dylib, 0x0002): tried: '/usr/local/lib/ssh-keychain.dylib' (code signature invalid in <8978BDE8-8AE2-3EFE-833D-DC2C8781B6C4> '/usr/local/lib/ssh-keychain.dylib' (errno=1) sliceOffset=0x00018000, codeBlobOffset=0x0001DFC0, codeBlobSize=0x00004B40), '/System/Volumes/Preboot/Cryptexes/OS/usr/local/lib/ssh-keychain.dylib' (no such file), '/usr/local/lib/ssh-keychain.dylib' (code signature invalid in <8978BDE8-8AE2-3EFE-833D-DC2C8781B6C4> '/usr/local/lib/ssh-keychain.dylib' (errno=1) sliceOffset=0x00018000, codeBlobOffset=0x0001DFC0, codeBlobSize=0x00004B40)
 ```
 <br>
 
