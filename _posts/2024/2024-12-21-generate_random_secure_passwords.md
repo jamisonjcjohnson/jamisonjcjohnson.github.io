@@ -1,7 +1,7 @@
 ---
 title: How to Generate Random Secure Passwords with OpenSSL
 layout: post
-date: '2024-10-21'
+date: '2024-12-21'
 description: When it comes to security, one of the most critical tasks is generating strong, unpredictable passwords.
 intro: "In this post, we'll focus on the command `openssl rand -base64 16`, which is a straightforward method to generate random, Base64-encoded passwords." 
 lang: en_US
