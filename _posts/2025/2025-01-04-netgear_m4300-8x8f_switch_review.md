@@ -1,7 +1,7 @@
 ---
 title: Netgear M4300-8X8F Switch Review
 layout: post
-date: '2024-10-22'
+date: '2025-01-04'
 description: When managing high-performance networks, having the right switch is essential to ensure seamless operations.
 intro: "In this review, we’ll cover the essential features, performance, and potential use cases for the **NETGEAR M4300-8X8F** switch, helping you decide if it’s the right fit for your network infrastructure needs." 
 lang: en_US
