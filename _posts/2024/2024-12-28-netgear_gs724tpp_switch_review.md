@@ -1,7 +1,7 @@
 ---
 title: Netgear GS724TPP 24 Port POE Smart Ethernet Switch Review
 layout: post
-date: '2024-10-23'
+date: '2024-12-28'
 description: When it comes to managing multiple devices in a business or home network, having a reliable switch is crucial.
 intro: "In this review, we’ll explore the features, performance, and potential use cases of the NETGEAR GS724TPP, a powerful 24-port POE switch." 
 lang: en_US
