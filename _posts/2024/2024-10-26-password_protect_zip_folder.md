@@ -91,4 +91,4 @@ Using 7-Zip to password-protect your ZIP files is a simple yet effective way to 
 
 <br>
 
-📝 For more information about `7-Zip`, review the [7-Zip FAQ's page](https://www.7-zip.org/faq.html).
+📝 For more information about `7-Zip`, review the [7-Zip FAQ's page](https://www.7-zip.org/faq.html)!
