@@ -1,7 +1,7 @@
 ---
 title: Understanding the Purpose of the Cygwin Cache
 layout: post
-date: '2024-10-30'
+date: '2025-01-11'
 description: Cygwin is a powerful tool that provides a Unix-like environment and command-line interface for Windows, bridging compatibility between Linux applications and Windows OS.
 intro: "This article will discuss what the Cygwin cache is, its purpose, and the advantages of maintaining a local copy on your own server." 
 lang: en_US
@@ -119,6 +119,8 @@ You can set up a cron job to regularly update this mirror. This cron job runs a 
 <br>
 
 As of November 2024, the cygwin cache is about ~105GB, so you may want to store the cache on an external location, unless you have plenty of space on your machine.
+
+<br>
 
 **Point Cygwin Installers to the Local Mirror:** During installation, point the Cygwin installer to your local server’s mirror, e.g., http://your-server-ip/cygwin/. This ensures all downloads and updates come from the local cache.
 
