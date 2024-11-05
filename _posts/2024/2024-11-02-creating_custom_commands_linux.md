@@ -79,7 +79,7 @@ welcome
 The output will be:
 
 ```bash
-Welcome to your custom command!
+Welcome to your custom command...
 ```
 
 <br>
