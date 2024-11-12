@@ -1,7 +1,7 @@
 ---
 title: Port Redirection on RHEL Servers
 layout: post
-date: '2024-08-26'
+date: '2024-11-09'
 description: Port redirection is a powerful tool for managing network traffic.
 intro: "This post will explore why port redirection is important, when it should be configured, and how to do so using `firewalld`." 
 lang: en_US
