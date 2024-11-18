@@ -36,7 +36,7 @@ For example, you can grant read access to one user, write access to another, and
 
 ## What is setfacl?
 
-The `setfacl` command is used to modify the ACLs of files and directories. With setfacl, you can add, modify, or remove specific user or group permissions without affecting the standard owner-group-other permission scheme.
+The `setfacl` command is used to modify the ACLs of files and directories. With setfacl, you can add, modify, or remove specific users or group permissions without affecting the standard owner-group-other permission scheme.
 
 <br>
 
