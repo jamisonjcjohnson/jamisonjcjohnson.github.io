@@ -19,7 +19,7 @@ icon: fa-apple
 
 When using SSH with a CAC (Common Access Card) on macOS, you might encounter an error related to `ssh-keychain.dylib` during login. This issue often manifests as a long error message, but despite the error, you may still be able to log in. However, the constant appearance of the error message can be frustrating. The root cause is usually an invalid code signature on the `ssh-keychain.dylib` file.
 
-In this post, we'll walk through a simple solution to resolve this code signature issue, ensuring a smoother experience when using your CAC for SSH authentication.
+In this post, we'll walk through a simple solution to resolve this code signature issue, ensuring a smoother experience when using your CAC for SSH authentication!
 
 <br>
 
