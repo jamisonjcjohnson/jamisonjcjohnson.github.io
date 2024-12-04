@@ -149,6 +149,8 @@ Here are some of the most commonly used `virsh` commands, grouped by functionali
   virsh snapshot-revert <vm-name> <snapshot-name>
   ```
 
+<br>
+
 ### 5. Managing Storage and Networking
 
 - **List storage pools**:
@@ -174,21 +176,18 @@ Create an XML configuration file (`vm-config.xml`) with details about the VM, su
 
 2. **Define the VM**
 Use the following command to define the VM:
-
   ```bash
   virsh define vm-config.xml
   ```
 
 3. **Start the VM**
 Start the VM with:
-
   ```bash
   virsh start <vm-name>
   ```
 
 4. **Verify the VM is Running**
 Check the status of the VM:
-
   ```bash
   virsh list
   ```
