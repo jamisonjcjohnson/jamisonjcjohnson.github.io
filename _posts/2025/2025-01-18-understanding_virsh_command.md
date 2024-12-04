@@ -1,7 +1,7 @@
 ---
 title: Understanding the `virsh` Command in Virtualization Management
 layout: post
-date: '2024-12-01'
+date: '2025-01-18'
 description: The `virsh` command is a powerful utility for managing virtual machines (VMs) in Linux-based environments.
 intro: "This blog will explore what the `virsh` command is, its common use cases, and examples of how to use it effectively for virtualization management." 
 lang: en_US
