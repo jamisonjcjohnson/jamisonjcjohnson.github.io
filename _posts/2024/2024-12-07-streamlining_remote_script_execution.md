@@ -161,4 +161,4 @@ Remember, this approach relies on having SSH key-based authentication set up bet
 
 <br>
 
-📝 For more information about this `bash` command, review this [bash man page](https://linux.die.net/man/1/bash).
+📝 For more information about this `bash` command, review this [bash man page](https://linux.die.net/man/1/bash)!
