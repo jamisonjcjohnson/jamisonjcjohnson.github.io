@@ -1,7 +1,7 @@
 ---
 title: Understanding the Difference Between `apt` and `apt-get`
 layout: post
-date: '2024-12-19'
+date: '2025-01-25'
 description: Both `apt` and `apt-get` are powerful tools for managing software packages on Debian-based systems.
 intro: "This blog post will delve into the distinctions between `apt` and `apt-get`, their unique features, and when to use each." 
 lang: en_US
