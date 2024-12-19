@@ -1,7 +1,7 @@
 ---
 title: Exploring Nagios for IT Monitoring
 layout: post
-date: '2024-12-19'
+date: '2025-02-01'
 description: Nagios is a robust, industry-standard open-source solution for monitoring networks, servers, and applications.
 intro: "This review delves into Nagios’s core features, benefits, and how it compares to modern monitoring solutions." 
 lang: en_US
