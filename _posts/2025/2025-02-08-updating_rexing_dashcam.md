@@ -1,7 +1,7 @@
 ---
 title: Updating Firmware on Your Rexing Dash Cam
 layout: post
-date: '2025-01-04'
+date: '2025-02-08'
 description: Regularly updating the firmware on your Rexing Dash Cam is a simple yet crucial step to maintaining its reliability and unlocking its full potential.
 intro: "Keeping your Rexing Dash Cam firmware up to date is essential for ensuring optimal performance, compatibility, and access to the latest features." 
 lang: en_US
