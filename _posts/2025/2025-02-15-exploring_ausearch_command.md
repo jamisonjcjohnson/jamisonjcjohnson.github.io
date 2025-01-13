@@ -1,7 +1,7 @@
 ---
 title: Exploring the ausearch Command in Linux
 layout: post
-date: '2025-01-12'
+date: '2025-02-15'
 description: The `ausearch` command is a powerful tool for querying and analyzing audit logs in Linux systems.
 intro: "In this post, we will explore how to effectively use the `ausearch` command for different types of audits and troubleshooting scenarios." 
 lang: en_US
