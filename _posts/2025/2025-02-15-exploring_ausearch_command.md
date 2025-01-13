@@ -48,6 +48,8 @@ Where `[options]` are the various flags or filters used to specify what data you
 
 ## Commonly Used ausearch Options
 
+<br>
+
 ### Searching by Time Range 
 If you want to search for audit events that occurred within a specific time range, you can use the `-ts` (start time) and `-te` (end time) options. The times should be provided in the format `YYYY-MM-DD HH:MM:SS`.
 
@@ -105,6 +107,8 @@ You can search for events related to a specific process by using the `-p` option
 ausearch -p 1234
 ```
 This will return all audit logs associated with PID `1234`.
+
+<br>
 
 ### Combining Filters
 `ausearch` allows you to combine multiple search parameters. For example, you can search for events related to a specific user and time range:
