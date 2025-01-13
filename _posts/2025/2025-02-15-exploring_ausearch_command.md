@@ -48,71 +48,65 @@ Where `[options]` are the various flags or filters used to specify what data you
 
 ## Commonly Used ausearch Options
 
-1. Searching by Time Range
+### Searching by Time Range 
 If you want to search for audit events that occurred within a specific time range, you can use the `-ts` (start time) and `-te` (end time) options. The times should be provided in the format `YYYY-MM-DD HH:MM:SS`.
 
 ```bash
 ausearch -ts 2025-01-01 00:00:00 -te 2025-01-10 23:59:59
 ```
-
 This command will return all events between January 1, 2025, and January 10, 2025.
 
 <br>
 
-2. Searching by Event Type
+### Searching by Event Type
 The `-m` option allows you to search for specific types of events. Common event types include `USER_ACCT` for user account actions, `SYSCALL` for system calls, and `EXECVE` for executed programs.
 
 ```bash
 ausearch -m USER_ACCT
 ```
-
 This will return all user account events, such as login attempts or changes in user privileges.
 
 <br>
 
-3. Searching by UID
+### Searching by UID
 You can filter events by user ID (UID) using the `-ui` option. This is particularly useful if you're investigating actions performed by a specific user.
 
 ```bash
 ausearch -ui 1001
 ```
-
 This command will display all audit logs associated with UID `1001`.
 
 <br>
 
-4. Searching for a Specific File or Directory
+### Searching for a Specific File or Directory
 To investigate activity on a specific file or directory, you can use the `-f` option followed by the path of the file or directory.
 
 ```bash
 ausearch -f /etc/passwd
 ```
-
 This will show all events related to the `/etc/passwd` file, such as file accesses or modifications.
 
 <br>
 
-5. Searching by Event ID
+### Searching by Event ID
 If you know the event ID (typically a numeric value assigned to each event), you can use the `-e` option to search for it directly.
 
 ```bash
 ausearch -e 12345
 ```
-
 This searches for a specific event with the ID `12345`.
 
 <br>
 
-6. Searching by Process ID (PID)
+### Searching by Process ID (PID)
 You can search for events related to a specific process by using the `-p` option, followed by the process ID (PID).
 
 ```bash
 ausearch -p 1234
 ```
-
 This will return all audit logs associated with PID `1234`.
 
-7. Combining Filters
+### Combining Filters
 `ausearch` allows you to combine multiple search parameters. For example, you can search for events related to a specific user and time range:
 
 ```bash
@@ -123,6 +117,8 @@ This will display events for UID `1001` that occurred between January 1, 2025, a
 <br>
 
 ## Example Use Cases
+
+<br>
 
 ### Investigating Unauthorized Access Attempts
 
