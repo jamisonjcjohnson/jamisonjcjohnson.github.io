@@ -5,7 +5,7 @@ date: '2025-02-01'
 description: Troubleshooting high availability issues with pfSense firewalls.
 intro: "In this post, we will explore how to address a pfSense high availability configuration issue between two firewalls." 
 lang: en_US
-image: "static/assets/img/blog/2025/troubleshooting_highavailability_pfsense_issues/troubleshooting_highavailability_pfsense_issues.jpg"
+image: "/static/assets/img/blog/2025/troubleshooting_highavailability_pfsense_issues/troubleshooting_highavailability_pfsense_issues.jpg"
 keywords: linux,terminal,networking,server,pfsense
 categories:
 - Linux
@@ -24,7 +24,7 @@ While configuring **High Availability (HA)** between two pfSense firewalls (**jp
 - The **SERVER VLAN and interface settings remained intact on jpcfw2**, but DHCP settings failed to synchronize.
 - Manual configuration of DHCP settings on jpcfw2 was not persisting.
 
-This indicated a deeper issue with interface assignments within pfSense HA. In this post, we will explore how to address a pfSense high availability configuration issue between two firewalls!!
+This indicated a deeper issue with interface assignments within pfSense HA. In this post, we will explore how to address a pfSense high availability configuration issue between two firewalls!
 
 <br>
 
