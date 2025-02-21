@@ -1,7 +1,7 @@
 ---
 title: Setting Cygwin as the Default Shell for SSH on Windows Server
 layout: post
-date: '2025-02-21'
+date: '2025-03-01'
 description: Configuring Cygwin properly ensures a more UNIX-like environment for remote management.
 intro: "In this post, we will show you a step-by-step process to configure Cygwin as the default shell." 
 lang: en_US
@@ -26,7 +26,7 @@ In this post, we will show you a step-by-step process to configure Cygwin as the
 
 <br>
 
-## 1. Configure `ssh-host-config` in Cygwin
+## Configure `ssh-host-config` in Cygwin
 
 First, navigate to the Cygwin binaries directory and run the SSH host configuration command.
 
@@ -37,7 +37,7 @@ ssh-host-config
 
 <br>
 
-## 2. Follow the SSH Configuration Prompts
+## Follow the SSH Configuration Prompts
 During the configuration, you will be prompted with several options. Select the following:
 
 - Should privilege separation be used?
@@ -51,7 +51,7 @@ This will configure Cygwin’s OpenSSH daemon **cygsshd** to run as a Windows se
 
 <br>
 
-## 3. Manage Windows Services
+## Manage Windows Services
 Next, ensure that the correct SSH service is running.
 
 - Open the Windows Services Application **services.msc**.
