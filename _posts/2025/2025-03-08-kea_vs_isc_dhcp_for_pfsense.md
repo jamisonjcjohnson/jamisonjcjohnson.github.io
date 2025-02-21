@@ -30,6 +30,8 @@ This blog post compares **KEA DHCP** and **ISC DHCP** to help you decide which i
 
 **ISC DHCP** (Internet Systems Consortium DHCP) has been the **default DHCP server** for pfSense for many years. It’s widely used and well-supported, but it has some limitations.
 
+<br>
+
 ### Pros of ISC DHCP
 ✔ **Mature and Stable** – Decades of development and widespread adoption.  
 ✔ **Deep pfSense Integration** – Works seamlessly with **pfSense’s web interface**.  
@@ -58,6 +60,8 @@ This blog post compares **KEA DHCP** and **ISC DHCP** to help you decide which i
 ✔ **High Availability via Hooks** – Supports **customizable HA setups** beyond traditional failover.  
 ✔ **REST API for Automation** – Enables **dynamic, API-driven DHCP configurations**.
 
+<br>
+
 ### Cons of KEA DHCP
 ❌ **Limited pfSense Integration** – As of now, **pfSense does not fully support KEA DHCP** through the web UI.  
 ❌ **More Complex Configuration** – Requires **JSON-based configurations** instead of traditional text files.  
@@ -66,6 +70,8 @@ This blog post compares **KEA DHCP** and **ISC DHCP** to help you decide which i
 <br>
 
 ## Which One Should You Use?
+
+<br>
 
 ### Use ISC DHCP if:
 - You want **full pfSense web UI integration**.  
@@ -88,9 +94,9 @@ For most **pfSense users**, **ISC DHCP is still the best choice** due to **ease 
 
 While **ISC DHCP** remains the default choice for pfSense due to its simplicity and **tight integration**, **KEA DHCP** offers **significant advantages** in performance, scalability, and automation. If you manage a **large network** or require **dynamic configurations**, KEA might be worth the extra setup effort.
 
-For now, **pfSense users should stick with ISC DHCP**, but keep an eye on **future updates** as KEA DHCP continues to gain support. Eventually, pfSense will likely transition fully to KEA DHCP as **ISC DHCP reaches end-of-life**.
+<br>
 
-Would you switch to **KEA DHCP** now, or wait until **pfSense provides full support**? Let me know in the comments!
+For now, **pfSense users should stick with ISC DHCP**, but keep an eye on **future updates** as KEA DHCP continues to gain support. Eventually, pfSense will likely transition fully to KEA DHCP as **ISC DHCP reaches end-of-life**.
 
 <br>
 
