@@ -1,7 +1,7 @@
 ---
 title: KEA vs ISC DHCP for pfSense Configuration - Which One to Choose?
 layout: post
-date: '2025-02-21'
+date: '2025-03-08'
 description: When configuring pfSense as a DHCP server, you have two primary options - ISC DHCP and KEA DHCP.
 intro: "This blog post compares KEA DHCP and ISC DHCP to help you decide which is best for your pfSense deployment." 
 lang: en_US
