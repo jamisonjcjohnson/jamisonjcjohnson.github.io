@@ -24,7 +24,9 @@ In this post, we will show you a step-by-step process to configure Cygwin as the
 * TOC 
 {:toc}
 
-## **1. Configure `ssh-host-config` in Cygwin**
+<br>
+
+## 1. Configure `ssh-host-config` in Cygwin
 
 First, navigate to the Cygwin binaries directory and run the SSH host configuration command.
 
@@ -35,7 +37,7 @@ ssh-host-config
 
 <br>
 
-## **2. Follow the SSH Configuration Prompts
+## 2. Follow the SSH Configuration Prompts
 During the configuration, you will be prompted with several options. Select the following:
 
 - Should privilege separation be used?
@@ -49,7 +51,7 @@ This will configure Cygwin’s OpenSSH daemon **cygsshd** to run as a Windows se
 
 <br>
 
-## **3. Manage Windows Services
+## 3. Manage Windows Services
 Next, ensure that the correct SSH service is running.
 
 - Open the Windows Services Application **services.msc**.

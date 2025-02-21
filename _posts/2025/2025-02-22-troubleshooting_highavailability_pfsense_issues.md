@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting VLAN and Interface Synchronization Issues in pfSense HA
 layout: post
-date: '2025-02-01'
+date: '2025-02-22'
 description: Troubleshooting high availability issues with pfSense firewalls.
 intro: "In this post, we will explore how to address a pfSense high availability configuration issue between two firewalls." 
 lang: en_US
