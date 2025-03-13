@@ -1,7 +1,7 @@
 ---
 title: How ACL Masks Let You Fine-Tune File Permissions in Linux
 layout: post
-date: '2025-03-12'
+date: '2025-03-15'
 description: Let's dive into this important concept by taking a look at what they are and how they interact with Linux file system permissions.
 intro: "This blog post will break down ACL masks and how they are important with Linux file system permissions." 
 lang: en_US
@@ -42,7 +42,6 @@ Let's examine a newly created file we'll be working with: `securedfile.txt`.
 ls -l securedfile.txt
 ```
 
-<br>
 
 You'll see something like this:
 
