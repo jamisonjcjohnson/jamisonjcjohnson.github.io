@@ -5,7 +5,7 @@ date: '2025-03-12'
 description: Let's dive into this important concept by taking a look at what they are and how they interact with Linux file system permissions.
 intro: "This blog post will break down ACL masks and how they are important with Linux file system permissions." 
 lang: en_US
-image: "static/assets/img/blog/2025/linux_acl_masks/linux_acl_masks.jpg"
+image: "/static/assets/img/blog/2025/linux_acl_masks/linux_acl_masks.jpg"
 keywords: linux,acls,permissions
 categories:
 - Linux
@@ -28,6 +28,8 @@ This blog post will break down ACL masks and how they are important with Linux f
 
 Are you using Access Control Lists (ACLs) but are confused about the concept of masks? You're not alone. Let's dive into this important concept by taking a look at what they are and how they interact with Linux file system permissions.
 
+<br>
+
 ## What Are ACL Masks?
 
 ACL masks ensure permissions interoperability with programs and utilities that aren't ACL-aware.
@@ -47,8 +49,6 @@ You'll see something like this:
 ```sh
 -rw-r--r--. 1 user group 0 Aug 23 12:34 securedfile.txt
 ```
-
-<br>
 
 Notice the `dot (.)` after the permissions. This indicates an **SELinux context**, which is unrelated to ACLs or ACL masks.
 
@@ -83,8 +83,6 @@ ls -l securedfile.txt
 getfacl securedfile.txt
 ```
 
-<br>
-
 You'll now see a `+ sign` in the `ls -l` output, indicating ACLs are present:
 
 ```sh
@@ -113,8 +111,6 @@ Now, let's add another user, `developer`, with read and write permissions:
 setfacl -m u:developer:rw securedfile.txt
 getfacl securedfile.txt
 ```
-
-<br>
 
 This changes the ACL:
 
@@ -183,13 +179,9 @@ getfacl secureddirectory/securedsubdirectory/
 
 This ensures new files inherit the specified mask settings.
 
+<br>
 
-
-
-
-
-
-## **Conclusion**
+## Conclusion
 
 ACL masks ensure ACL security while maintaining compatibility with non-ACL-aware applications. They help enforce permissions boundaries effectively, ensuring system consistency while providing fine-grained access control.
  <br>
