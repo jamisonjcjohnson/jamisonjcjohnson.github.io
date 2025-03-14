@@ -1,7 +1,7 @@
 ---
 title: OpenWRT on the TP-Link EAP615-Wall - A Powerful Upgrade for Advanced Networks
 layout: post
-date: '2025-03-12'
+date: '2025-03-22'
 description: The TP-Link EAP615-Wall is a compact, Wi-Fi 6 wall-mounted access point designed for dense deployments and high-speed wireless performance.
 intro: "In this review, we’ll explore the benefits and potential drawbacks of running OpenWRT." 
 lang: en_US
@@ -30,16 +30,18 @@ In this review, we’ll explore the benefits and potential drawbacks of running 
 ## **Why Consider OpenWRT?**
 The stock firmware on TP-Link access points works well for basic setups, but when you’re managing multiple VLANs, advanced security, and traffic optimization, OpenWRT opens up a world of possibilities:
 
-- **Advanced Network Control:** OpenWRT gives you deep control over firewall rules, VLAN tagging, and interface assignments — perfect for keeping your Eufy camera traffic local.
+- **Advanced Network Control:** OpenWRT gives you deep control over firewall rules, VLAN tagging, and interface assignments — perfect for keeping traffic local.
 - **Enhanced Wireless Performance:** You can fine-tune power levels, channel selection, and bandwidth, which is crucial when managing 12 access points without any nearby Wi-Fi interference.
 - **Flexibility with Packages:** OpenWRT supports a huge library of additional packages, so you can add advanced tools like `luci-app-sqm` for traffic shaping or `wpad-openssl` for improved wireless security.
+
+<br>
 
 ## **Performance on the EAP615-Wall**
 The EAP615-Wall is a compact and powerful Wi-Fi 6 access point, and OpenWRT takes full advantage of its hardware:
 
 - **Stable Mesh Networking:** If you’re using mesh configurations, OpenWRT offers better support and stability for wireless backhaul.
 - **VLAN Integration:** With your existing VLAN setup on pfSense, OpenWRT makes it easy to align those networks on your WAPs without interference or sync issues.
-- **Improved Security:** You get faster updates and community-driven security patches — critical when running IoT devices like your Eufy cameras.
+- **Improved Security:** You get faster updates and community-driven security patches — critical when running IoT devices like cameras.
 
 <br>
 
@@ -58,7 +60,8 @@ Running OpenWRT on the TP-Link EAP615-Wall brings a level of control and perform
 
 <br>
 
-That said, OpenWRT isn’t a plug-and-play solution. It requires careful setup and a willingness to dive into network configuration. But if you’re ready to take your network’s reliability, security, and performance to the next level, the combination of OpenWRT and the EAP615-Wall is a powerful and flexible solution worth considering.
+That said, OpenWRT isn’t a plug-and-play solution. It requires careful setup and a willingness to dive into network configuration. But if you’re ready to take your network’s reliability, security, and performance to the next level, the combination of OpenWRT and the EAP615-Wall is a powerful and flexible solution worth considering. However, overall it is a good option and something that should be considered.
+
 <br>
 
 📝 For more information about OpenWRT, please review their [official documentation](https://openwrt.org/docs/start).
