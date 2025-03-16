@@ -1,7 +1,7 @@
 ---
 title: Understanding Splunk Forwarder Connection to Splunk Server
 layout: post
-date: '2025-03-15'
+date: '2025-04-05'
 description: Splunk is a powerful platform for collecting, indexing, and analyzing log data. A crucial component of Splunk’s architecture is the Splunk Universal Forwarder (UF).
 intro: "In this post, we’ll explore this connection and how to maintain an effective connection between a splunk forwarder and a splunk server." 
 lang: en_US
