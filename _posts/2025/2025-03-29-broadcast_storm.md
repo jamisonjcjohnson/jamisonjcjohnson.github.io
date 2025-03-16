@@ -54,27 +54,27 @@ Preventing a broadcast storm requires a combination of proper network design, lo
 
 <br>
 
-### **1. Implement Spanning Tree Protocol (STP)**
+### **Implement Spanning Tree Protocol (STP)**
 The **Spanning Tree Protocol (STP)** and its variants (RSTP, MSTP) prevent loops by dynamically blocking redundant paths in a switched network. Ensure STP is enabled on all managed switches.
 
-### **2. Configure Broadcast Storm Control**
+### **Configure Broadcast Storm Control**
 Many modern switches include **storm control** settings to limit broadcast traffic:
 - Set thresholds to restrict broadcast, multicast, or unknown unicast traffic.
 - Configure automatic shutdown of a port if excessive broadcast traffic is detected.
 
 <br>
 
-### **3. Use VLANs to Limit Broadcast Domains**
+### **Use VLANs to Limit Broadcast Domains**
 By segmenting a network into **smaller VLANs**, you reduce the size of each broadcast domain, preventing storms from impacting the entire network.
 
 <br>
 
-### **4. Enable Loop Prevention on Edge Ports**
+### **Enable Loop Prevention on Edge Ports**
 If using unmanaged switches or hosts connected to the network, enable **BPDU Guard** and **PortFast** on access ports to prevent accidental loops.
 
 <br>
 
-### **5. Monitor and Detect Anomalous Traffic**
+### **Monitor and Detect Anomalous Traffic**
 Use network monitoring tools like:
 - **sFlow or NetFlow:** To analyze network traffic patterns.
 - **SNMP-based Monitoring:** To track bandwidth usage and identify unusual spikes.
@@ -82,13 +82,13 @@ Use network monitoring tools like:
 
 <br>
 
-### **6. Control DHCP and ARP Traffic**
+### **Control DHCP and ARP Traffic**
 - Implement **DHCP Snooping** to prevent rogue DHCP servers from flooding the network.
 - Use **Dynamic ARP Inspection (DAI)** to block excessive ARP requests from misconfigured or malicious hosts.
 
 <br>
 
-### **7. Ensure Proper Network Design**
+### **Ensure Proper Network Design**
 - Avoid **cascading unmanaged switches**, as they can form loops without STP.
 - Deploy **redundant links** with proper failover mechanisms, ensuring that unused paths do not create loops.
 - Regularly review network topology and switch configurations.
