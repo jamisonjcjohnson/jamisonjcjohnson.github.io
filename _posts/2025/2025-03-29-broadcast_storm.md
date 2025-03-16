@@ -1,7 +1,7 @@
 ---
 title: Understanding Broadcast Storms and How to Prevent Them
 layout: post
-date: '2025-03-15'
+date: '2025-03-29'
 description: A broadcast storm is a network condition where excessive broadcast traffic overwhelms the network, leading to degraded performance or even a complete network failure.
 intro: "In this post, we’ll explore what causes broadcast storms, their impact, and how to prevent them." 
 lang: en_US

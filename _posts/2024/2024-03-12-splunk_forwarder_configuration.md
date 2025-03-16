@@ -60,6 +60,8 @@ Before diving into the configuration process, ensure the following prerequisites
      sudo rpm -i splunkforwarder-<version>-<build>.rpm
      ```
 
+<br>
+
 ## Configuration:
 
 ### 1. **Access the Splunk Web Interface**
