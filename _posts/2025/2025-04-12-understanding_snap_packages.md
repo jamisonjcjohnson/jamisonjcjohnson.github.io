@@ -100,11 +100,11 @@ sudo snap remove <package-name>
 
 <br>
 
-## Snap vs. Traditional Package Managers
+## **Snap vs. Traditional Package Managers**
 
 <br>
 
-### Advantages of Snap Packages:
+### **Advantages of Snap Packages:**
 * Universal compatibility – Works across multiple distributions.
 * Self-contained dependencies – No more missing libraries.
 * Automatic updates – Ensures software stays up to date.
@@ -113,7 +113,7 @@ sudo snap remove <package-name>
 
 <br>
 
-### Advantages of Traditional Packages (APT/YUM):
+### **Advantages of Traditional Packages (APT/YUM):**
 
 <br>
 
@@ -124,21 +124,21 @@ sudo snap remove <package-name>
 
 <br>
 
-### Disadvantages of Snap Packages:
+### **Disadvantages of Snap Packages:**
 * Slower startup times – Due to sandboxing and bundling dependencies.
 * Higher disk usage – Each Snap includes its own dependencies.
 * Centralized distribution – All Snaps come from Canonical’s Snap Store, limiting flexibility.
 
 <br>
 
-### Disadvantages of Traditional Packages:
+### **Disadvantages of Traditional Packages:**
 * Dependency conflicts – Some software requires specific versions of libraries.
 * Distro-specific – Packages must be tailored for each distribution.
 * Manual updates required – Software updates depend on system upgrades.
 
 <br>
 
-## Common Criticisms of Snap Packages
+## **Common Criticisms of Snap Packages**
 
 Some Linux distributions, like Linux Mint, have disabled Snapd by default due to:
 
@@ -149,7 +149,7 @@ Some Linux distributions, like Linux Mint, have disabled Snapd by default due to
 
 <br>
 
-## Conclusion
+## **Conclusion**
 Snap packages bring a modern approach to software distribution, offering a hassle-free installation process, cross-distro compatibility, and improved security through sandboxing. However, traditional package managers still excel in performance, system integration, and user control over updates. While Snaps provide a compelling alternative for users who prioritize convenience and security, those who value efficiency and flexibility may prefer sticking with APT, YUM, or other traditional package formats. Ultimately, the choice between Snap and traditional package management depends on the specific needs of the user and the software environment they operate in.
 
 <br>
