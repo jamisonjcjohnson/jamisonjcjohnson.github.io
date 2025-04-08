@@ -85,7 +85,7 @@ The mesh network handled roaming well, automatically switching devices to the st
 
 <br>
 
-## **Conclusion**
+## Conclusion
 The **Nest WiFi Pro** is a forward-looking mesh WiFi system that delivers excellent performance, future-proofing, and smart home readiness in one sleek package. While it may not satisfy network enthusiasts who want full control over every setting, it’s a fantastic choice for everyday users who value simplicity, speed, and reliability.
 
 If you’re ready to move into the 6 GHz future and want something that “just works,” the Nest WiFi Pro is a compelling option — albeit at a premium price.
@@ -93,4 +93,4 @@ If you’re ready to move into the 6 GHz future and want something that “just 
 
 <br>
 
-📝 For more information about Google Nest Wifi Pro, please review this document from [Google](https://support.google.com/googlenest/answer/9548301?hl=en webpage.
+📝 For more information about Google Nest Wifi Pro, please review this document from [Google](https://support.google.com/googlenest/answer/9548301?hl=en webpage).
