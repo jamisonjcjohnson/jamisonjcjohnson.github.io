@@ -1,7 +1,7 @@
 ---
 title: Google Nest WiFi Pro Review
 layout: post
-date: '2025-04-07'
+date: '2025-04-19'
 description: The Nest WiFi Pro targets users looking for a no-fuss upgrade to their existing home network.
 intro: "In this blog post, we will discuss the key features, performance, pros and cons, and ideal use cases for the Nest WiFi Pro to help you decide if it’s the right mesh solution for your home." 
 lang: en_US
