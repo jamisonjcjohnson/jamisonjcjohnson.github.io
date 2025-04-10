@@ -1,7 +1,7 @@
 ---
 title: Review/Understanding of the namei Command
 layout: post
-date: '2025-04-09'
+date: '2025-05-03'
 description: To effectively diagnose and resolve these issues, a tool that can illuminate the path resolution process is indispensable. That tool is `namei`.
 intro: "In this blog post, we’ll walk through the basics of `namei` — including what it is, how to use it, and how to interpret its output — so you can start building a smarter, more secure understanding of your Linux file system from the ground up." 
 lang: en_US
