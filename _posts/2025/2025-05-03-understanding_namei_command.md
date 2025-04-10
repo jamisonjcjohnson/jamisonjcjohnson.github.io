@@ -1,5 +1,5 @@
 ---
-title: Review/Understanding of the `namei` Command
+title: Review/Understanding of the namei Command
 layout: post
 date: '2025-04-09'
 description: To effectively diagnose and resolve these issues, a tool that can illuminate the path resolution process is indispensable. That tool is `namei`.
@@ -18,7 +18,7 @@ icon: fa-linux
 
 The Linux file system, a seemingly simple structure to the casual user, is in reality a complex web of directories, files, and symbolic links. Navigating this web efficiently and accurately requires a deep understanding of how paths are resolved. When a user or application requests a file, the operating system embarks on a journey, traversing through each directory component, following symbolic links, and checking permissions along the way. This process, while often hidden from view, is critical for system functionality and security. Misconfigurations, broken symbolic links, and incorrect permissions can lead to application errors, data loss, and security vulnerabilities. To effectively diagnose and resolve these issues, a tool that can illuminate the path resolution process is indispensable. That tool is `namei`.
 
-`namei`, short for "name lookup inode," provides a detailed, step-by-step breakdown of how Linux resolves file paths. It reveals the inode numbers, permissions, and symbolic link resolutions for each component in a given path, allowing users to see exactly what the system is doing behind the scenes. This level of insight is invaluable for debugging complex file system issues, understanding the impact of symbolic links, and ensuring proper permissions are in place. Without a clear understanding of path resolution, troubleshooting file system problems can be a daunting task, akin to navigating a maze blindfolded.
+`namei`, short for **"name lookup inode,"** provides a detailed, step-by-step breakdown of how Linux resolves file paths. It reveals the inode numbers, permissions, and symbolic link resolutions for each component in a given path, allowing users to see exactly what the system is doing behind the scenes. This level of insight is invaluable for debugging complex file system issues, understanding the impact of symbolic links, and ensuring proper permissions are in place. Without a clear understanding of path resolution, troubleshooting file system problems can be a daunting task, akin to navigating a maze blindfolded.
 
 In this blog post, we’ll walk through the basics of `namei` — including what it is, how to use it, and how to interpret its output — so you can start building a smarter, more secure understanding of your Linux file system from the ground up.
 
@@ -51,6 +51,9 @@ The basic syntax is straightforward:
 ```bash
 namei <pathname>
 ```
+
+<br>
+
 Let's look at some examples:
 
 <br>
