@@ -1,7 +1,7 @@
 ---
 title: Show Git Branch in Your Terminal Prompt Automatically
 layout: post
-date: '2025-04-23'
+date: '2025-05-10'
 description: Thankfully, there’s a way to enhance your command line interface so you always know which Git branch you’re on—without running `git status` every few minutes.
 intro: "In this blog post, we'll update your `.bashrc` file so that your terminal prompt automatically displays the Git repository and active branch." 
 lang: en_US
@@ -90,7 +90,7 @@ There are many ways to customize your terminal to match your workflow.
 
 ## Conclusion
 
-This small tweak to your `.bashrc` adds a lot of value to your day-to-day Git operations. Knowing which branch you're on at a glance helps prevent mistakes, keeps you organized, and increases your overall productivity in the terminal.
+This small tweak to your `~/.bashrc` adds a lot of value to your day-to-day Git operations. Knowing which branch you're on at a glance helps prevent mistakes, keeps you organized, and increases your overall productivity in the terminal.
 
 In future blog posts, we’ll continue diving into tips and tweaks for a more efficient command-line experience.
 
