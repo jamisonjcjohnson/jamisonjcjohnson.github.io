@@ -1,7 +1,7 @@
 ---
 title: Understanding the .bashrc File in Linux
 layout: post
-date: '2025-04-26'
+date: '2025-05-17'
 description: One of the most important files for tailoring your environment is the `.bashrc` file.
 intro: "In this blog post, we'll explore what the `.bashrc` file is, why it’s important, and how you can customize it to improve your Linux terminal workflow." 
 lang: en_US
