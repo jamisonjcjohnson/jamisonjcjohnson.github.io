@@ -61,18 +61,19 @@ Here are a few practical things you might find or add in a `.bashrc`:
   Example: A function to quickly go to a projects directory.
 
 ```bash
-# Function to quickly navigate to the projects folder
+# Function to quickly navigate to the projects directory
 projects() {
   cd ~/Documents/Projects
 }
 ```
 
-- After adding this to your `~/.bashrc` and reloading it **source ~/.bashrc**, you can just type `projects` in your terminal.
+*After adding this to your `~/.bashrc` and reloading it **source ~/.bashrc**, you can just type `projects` in your terminal.*
 
-- It will immediately cd (change directory) into your `~/Documents/Projects` directory.
+*It will immediately cd (change directory) into your `~/Documents/Projects` directory.*
 
 - **Prompt Customization**: Changing how your shell prompt looks, often by showing the username, hostname, current directory, or Git branch.
-  - As described in my [Show Git Branch in Your Terminal Prompt Automatically](https://www.digitalocean.com/community/tutorials/bashrc-file-in-linux) article.
+  - As described in my [Show Git Branch in Your Terminal Prompt Automatically](https://jamisonjohnson.me/blog/linux/show_git_in_terminal/) article.
+
 <br>
 
 ## How .bashrc is Loaded
