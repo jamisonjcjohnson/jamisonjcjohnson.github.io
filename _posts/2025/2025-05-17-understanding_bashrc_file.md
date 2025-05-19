@@ -16,7 +16,7 @@ tags:
 icon: fa-linux
 ---
 
-When working in Linux, especially on a daily basis, the terminal becomes a second home. Whether you're developing software, managing servers, or just navigating the system, having an efficient and customized terminal experience makes a noticeable difference. One of the most important files for tailoring your environment is the `.bashrc` file.
+When working in Linux, especially on a daily basis, the terminal becomes a second home. Whether you're developing software, managing servers, or just navigating the system, having an efficient and customized terminal experience makes a noticeable difference. One of the most important files for tailoring your environment is the `.bashrc` file!
 
 In this blog post, we'll explore what the `.bashrc` file is, why it’s important, and how you can customize it to improve your Linux terminal workflow.
 
