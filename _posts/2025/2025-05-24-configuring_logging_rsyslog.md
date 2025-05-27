@@ -40,6 +40,8 @@ In this example:
 - `loghost` is the server that will collect logs.
 - `web01` is the server that will send logs to `loghost`.
 
+<br>
+
 ## Step 1: Preparing `loghost` (The Logging Receiver)
 
 <br>
@@ -53,6 +55,8 @@ rsyslogd -v
 ```
 
 You should see version output. If not, install it using your distro’s package manager.
+
+<br>
 
 ### Confirm the Service Is Running
 Ensure Rsyslog is active:
