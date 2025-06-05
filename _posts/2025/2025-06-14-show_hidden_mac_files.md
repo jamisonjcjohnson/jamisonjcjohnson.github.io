@@ -1,7 +1,7 @@
 ---
 title: How to Show Hidden Files on a Mac
 layout: post
-date: '2025-06-01'
+date: '2025-06-14'
 description: Hidden files on your Mac contain the nuts and bolts necessary for running macOS—think system settings, configuration files, and cache storage.
 intro: "In this blog post, we will show you three effective ways to reveal hidden files on your Mac safely." 
 lang: en_US
