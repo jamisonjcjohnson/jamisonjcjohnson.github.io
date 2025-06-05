@@ -1,7 +1,7 @@
 ---
 title: Using `mktemp` to Safely Create Temporary Files and Directories
 layout: post
-date: '2025-06-01'
+date: '2025-06-07'
 description: mktemp safely creates unique and secure temoprary files and directories.
 intro: "This post reviews the `mktemp` command, how it works, and why it should be your default choice for temporary file handling." 
 lang: en_US
