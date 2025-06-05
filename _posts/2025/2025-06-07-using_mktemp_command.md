@@ -139,6 +139,7 @@ This helps avoid leaving a broken or partial file behind if the script fails mid
 `mktemp` is a small but powerful command that solves a very real problem: safely and predictably handling temporary files. By always using it instead of hardcoded filenames like `/tmp/foo`, you avoid name collisions and boost security — especially in multi-user or automated environments.
 
 Next time you're building a shell script, don't reinvent the wheel — use `mktemp` for all your temporary file needs.
+
 <br>
 
-📝 For more information about Proxmox configurations, please review the [Proxmox VE Documentation Index](https://pve.proxmox.com/pve-docs/).
+📝 For more information about `mktemp`, please review the [man page](https://linux.die.net/man/1/mktemp).
