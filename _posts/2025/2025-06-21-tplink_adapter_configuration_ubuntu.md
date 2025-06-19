@@ -5,7 +5,7 @@ date: '2025-06-18'
 description: Getting a TP-Link USB Wi-Fi adapter working on Ubuntu 24.04 LTS isn't always as plug-and-play as you’d hope.
 intro: "In this blog post, we’ll walk through installing and configuring drivers for TP-Link Wi-Fi adapters using two reliable GitHub repositories and Ubuntu’s build tools." 
 lang: en_US
-image: "/static/assets/img/blog/2025/show_hidden_mac_files/show_hidden_mac_files.jpg"
+image: "/static/assets/img/blog/2025/tplink_adapter_configuration_ubuntu/tplink_adapter_configuration_ubuntu.jpg"
 keywords: linux,terminal,networking
 categories:
 - Linux
@@ -49,17 +49,17 @@ There are two GitHub repositories known to work reliably with TP-Link Wi-Fi adap
 
 ### Option 1: [aircrack-ng/rtl8812au](https://github.com/aircrack-ng/rtl8812au.git)
 
-This repository supports many popular adapters and is updated fairly regularly.
+This repository supports many popular adapters and is updated fairly regularly. Run the following commands.
 
-1. **`git clone https://github.com/aircrack-ng/rtl8812au.git`**
+**`git clone https://github.com/aircrack-ng/rtl8812au.git`**
 
-2. **`cd rtl8812au`**
+**`cd rtl8812au`**
 
-3. **`make`**
+**`make`**
 
-4. **`sudo make install`**
+**`sudo make install`**
 
-5. **`sudo reboot`**
+**`sudo reboot`**
 
 After rebooting, your Wi-Fi adapter should be recognized and ready for use.
 
@@ -68,17 +68,17 @@ After rebooting, your Wi-Fi adapter should be recognized and ready for use.
 ### Option 2: [morrownr/8821au-20210708](https://github.com/morrownr/8821au-20210708.git)
 
 
-If you have trouble with the aircrack-ng version or if your chipset is specifically RTL8821AU, this repository is another reliable choice.
+If you have trouble with the aircrack-ng version or if your chipset is specifically RTL8821AU, this repository is another reliable choice. Run the following commands.
 
-1. **`git clone https://github.com/morrownr/8821au-20210708.git`**
+**`git clone https://github.com/morrownr/8821au-20210708.git`**
 
-2. **`cd 8821au-20210708`**
+**`cd 8821au-20210708`**
 
-3. **`make`**
+**`make`**
 
-4. **`sudo make install`**
+**`sudo make install`**
 
-5. **`sudo reboot`**
+**`sudo reboot`**
 
 Again, after rebooting, your adapter should be functional.
 
