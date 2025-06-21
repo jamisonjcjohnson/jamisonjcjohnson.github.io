@@ -1,7 +1,7 @@
 ---
 title: TP-Link USB Wi-Fi Adapter Configuration on Ubuntu 24.04 LTS
 layout: post
-date: '2025-06-18'
+date: '2025-06-121'
 description: Getting a TP-Link USB Wi-Fi adapter working on Ubuntu 24.04 LTS isn't always as plug-and-play as you’d hope.
 intro: "In this blog post, we’ll walk through installing and configuring drivers for TP-Link Wi-Fi adapters using two reliable GitHub repositories and Ubuntu’s build tools." 
 lang: en_US
