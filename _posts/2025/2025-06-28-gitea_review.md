@@ -6,14 +6,14 @@ description: For teams or individuals looking for a lean, self-hosted Git servic
 intro: "In this blog post, we’ll explore Gitea’s purpose, key features, strengths, and ideal use cases—along with a few considerations before deployment." 
 lang: en_US
 image: "static/assets/img/blog/2025/gitea_review/gitea_review.jpg"
-keywords: linux,terminal,code
+keywords: linux,terminal,code,reviews
 categories:
-- Linux
+- Reviews
 tags:
 - linux
 - terminal
 - code
-icon: fa-linux
+icon: fa-server
 ---
 
 When managing source code and collaborating on software projects, GitHub and GitLab are often the go-to platforms. However, for teams or individuals looking for a lean, self-hosted Git service with a small footprint, **Gitea** has been gaining traction.
@@ -81,7 +81,6 @@ Security features include:
 
 ## Things to Consider
 
-- **No built-in CI/CD**: You’ll need to integrate with Drone or another CI system.
 - **Not as extensive as GitLab/GitHub**: Lacks advanced DevOps features out-of-the-box.
 - **Manual Scaling**: Suitable for small to medium teams; not ideal for enterprise use without customization.
 
