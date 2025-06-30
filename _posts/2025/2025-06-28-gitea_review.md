@@ -5,7 +5,7 @@ date: '2025-06-28'
 description: For teams or individuals looking for a lean, self-hosted Git service with a small footprint, Gitea has been gaining traction..
 intro: "In this blog post, we’ll explore Gitea’s purpose, key features, strengths, and ideal use cases—along with a few considerations before deployment." 
 lang: en_US
-image: "static/assets/img/blog/2025/gitea_review/gitea_review.jpg"
+image: "/static/assets/img/blog/2025/gitea_review/gitea_review.jpg"
 keywords: linux,terminal,code,reviews
 categories:
 - Reviews
