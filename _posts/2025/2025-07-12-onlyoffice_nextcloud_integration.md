@@ -1,12 +1,12 @@
 ---
 title: Integrating OnlyOffice with Nextcloud
 layout: post
-date: '2025-07-08'
+date: '2025-07-12'
 description: Nextcloud is a powerful self-hosted collaboration suite—but by default, it lacks the ability to edit Office documents like Word, Excel, or PowerPoint directly in the browser.
 intro: "In this blog post, we’ll walk through the process of integrating a self-hosted OnlyOffice server with a Nextcloud instance." 
 lang: en_US
 image: "/static/assets/img/blog/2025/onlyoffice_nextcloud_integration/onlyoffice_nextcloud_integration.jpg"
-keywords: linux,terminal,code,reviews
+keywords: linux,nextcloud,onlyoffice
 categories:
 - Linux
 tags:
