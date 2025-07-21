@@ -1,7 +1,7 @@
 ---
 title: Tracking USB Flash Drive Usage on Windows with Event Viewer  
 layout: post
-date: '2025-07-21'
+date: '2025-07-26'
 description: USB flash drives are incredibly convenient, but they also pose a significant risk to security and data integrity in managed environments.
 intro: "In this blog post, we will walk through how to track USB device activity using Event Viewer, identify relevant event IDs, and use filtering techniques to streamline your audits." 
 lang: en_US
