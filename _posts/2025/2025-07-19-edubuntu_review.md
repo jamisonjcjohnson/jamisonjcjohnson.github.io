@@ -111,4 +111,6 @@ Edubuntu 24.04 LTS is a strong, purpose-built Linux distribution that fulfills t
 
 If you're looking for a simple and powerful way to equip students with a secure, flexible, and educational desktop, Edubuntu 24.04 is worth serious consideration.
 
+<br>
+
 📝 For more information about Edubuntu, please visit their [official webpage](https://www.edubuntu.org).
