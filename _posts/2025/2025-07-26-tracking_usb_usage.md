@@ -84,6 +84,6 @@ This provides a quick overview of matching log entries without navigating throug
 
 ## Final Thoughts
 
-Monitoring USB device activity is an essential part of maintaining operational security and understanding how endpoints are being used. While Event Viewer offers a native, no-cost solution, it’s often underutilized. By understanding how to filter the System logs for relevant Event IDs, you can quickly gain insight into the physical interaction between users and the systems they access.
+Monitoring USB device activity is an essential part of maintaining operational security and understanding how endpoints are being used. While Event Viewer offers a native, no-cost solution, it’s has often been underutilized. By understanding how to filter the System logs for relevant Event IDs, you can quickly gain insight into the physical interaction between users and the systems they access.
 
 For environments with stricter security requirements, consider layering this approach with endpoint management solutions or Group Policy to block unauthorized USB usage altogether.
