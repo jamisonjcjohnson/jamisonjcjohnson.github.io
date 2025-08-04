@@ -1,7 +1,7 @@
 ---
 title: Why I Trust Files — Not Directories — in fapolicyd Rules for Splunk  
 layout: post
-date: '2025-07-22'
+date: '2025-08-02'
 description: When working with security-focused systems, especially those protected by fapolicyd, it's essential to understand the implications of how trust is assigned to executable files.
 intro: "In this blog post, we will walk through why adding trusted files explicitly using command-line tools is a more secure and controlled approach compared to allowing broad directory-level access in fapolicyd rule files." 
 lang: en_US
