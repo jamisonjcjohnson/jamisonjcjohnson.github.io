@@ -1,7 +1,7 @@
 ---
 title: Tailscale - Simple, Secure Networking for Real-World Use Cases  
 layout: post
-date: '2025-08-09'
+date: '2025-08-16'
 description: In a world where zero-trust and secure remote access are increasingly critical, Tailscale stands out as a remarkably elegant solution. 
 intro: "In this blog post, we’ll break down what Tailscale is, highlight real-world use cases, and walk through how to get started. We'll also briefly touch on its use in more advanced scenarios like secure NAS-to-NAS replication." 
 lang: en_US
