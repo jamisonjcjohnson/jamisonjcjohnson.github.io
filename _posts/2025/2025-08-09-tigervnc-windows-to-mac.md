@@ -1,9 +1,9 @@
 ---
-title: Set Up TigerVNC on Windows, and Use RDP to Access a Mac  
+title: Set Up TigerVNC on Windows to Access a Mac  
 layout: post
 date: '2025-08-09'
 description: TigerVNC is an open-source VNC server and client, providing a graphical interface for remote control of computers, while RDP is built into most versions of Windows, allowing easy remote desktop access.
-intro: "In this blog post, we will walk through downloading and setting up TigerVNC on Windows, enabling VNC on a Mac, and connecting from Windows using RDP." 
+intro: "In this blog post, we will walk through downloading and setting up TigerVNC on Windows, enabling VNC on a Mac, and connecting from Windows.." 
 lang: en_US
 image: "/static/assets/img/blog/2025/tigervnc-windows-to-mac/tigervnc-windows-to-mac.png"
 keywords: windows,mac,vnc
@@ -18,9 +18,9 @@ icon: fa-windows
 
 In today’s world of remote access and virtual desktops, it’s often necessary to control other machines from your device. Whether you’re managing a server, working remotely, or simply need to access a desktop environment away from home, tools like **TigerVNC** and **RDP (Remote Desktop Protocol)** make it simple.  
 
-TigerVNC is an open-source VNC server and client, providing a graphical interface for remote control of computers, while RDP is built into most versions of Windows, allowing easy remote desktop access. This combination allows you to securely connect to a Mac from Windows, even if macOS doesn’t natively support RDP.  
+TigerVNC is an open-source VNC server and client, providing a graphical interface for remote control of computers, while RDP is built into most versions of Windows, allowing easy remote desktop access. This combination allows you to securely connect to a Mac from Windows, even if macOS doesn’t natively support it.  
 
-In this blog post, we will walk through downloading and setting up TigerVNC on Windows, enabling VNC on a Mac, and connecting from Windows using RDP.
+In this blog post, we will walk through downloading and setting up TigerVNC on Windows, enabling VNC on a Mac, and connecting from Windows.
 
 <br>
 
@@ -29,7 +29,7 @@ In this blog post, we will walk through downloading and setting up TigerVNC on W
 
 <br>  
 
-## Why Use TigerVNC and RDP?
+## Why Use TigerVNC?
 
 * **TigerVNC** – Open-source, cross-platform VNC server and client for graphical remote control. Ideal for administrators and remote workers.  
 * **RDP** – Built-in Windows protocol for accessing remote desktops, offering a familiar interface and smooth performance.  
