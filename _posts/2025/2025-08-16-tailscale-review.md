@@ -120,4 +120,4 @@ Tailscale is excellent for private NAS replication, allowing secure syncing betw
 
 Tailscale flips traditional VPN thinking on its head. Instead of juggling firewall rules, tunnels, and static IPs, you just install, authenticate, and connect — securely and privately. It’s a powerful solution for sysadmins, developers, and anyone who needs secure access between devices.  
 
-Whether you’re setting up a private home lab, accessing your media library from across the world, or managing enterprise systems, [Tailscale’s official page](https://tailscale.com/) is the best place to start your journey into zero-config networking.
+Whether you’re setting up a private home lab, accessing your media library from across the world, or managing enterprise systems, [Tailscale’s official page](https://tailscale.com/) is the best place to start your journey into zero-config networking!
