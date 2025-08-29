@@ -18,7 +18,7 @@ icon: fa-server
 
 Enabling outbound Tailscale connections on Synology NAS devices is essential when using services like **Snapshot Replication** or **Hyper Backup** over Tailscale IPs. By default, DSM 7 has limitations that prevent outbound traffic from working properly. This guide shows how to fix the issue using Tailscale’s supported method so replication works seamlessly.
 
-In this blog post, we will walk through why this configuration is needed, the commands required, and how to apply the setup so it persists across reboots.
+In this blog post, we will walk through why this configuration is needed, the commands required, and how to apply the setup so it persists across reboots!
 
 <br>
 
