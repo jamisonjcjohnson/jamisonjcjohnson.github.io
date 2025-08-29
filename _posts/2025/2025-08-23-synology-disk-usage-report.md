@@ -5,7 +5,7 @@ date: '2025-08-23'
 description: Monitoring storage utilization on your Synology NAS is essential for maintaining performance and ensuring you don’t run into space issues. 
 intro: "In this blog post, we will walk through how to install and configure Storage Analyzer, create scheduled tasks, and export detailed disk usage reports." 
 lang: en_US
-image: "/static/assets/img/blog/2025/synology-disk-usage-report/synology-disk-usage-report.png
+image: "/static/assets/img/blog/2025/synology-disk-usage-report/synology-disk-usage-report.png"
 keywords: synology,networking,backup,reports
 categories:
 - Other
