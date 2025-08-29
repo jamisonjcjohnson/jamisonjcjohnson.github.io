@@ -1,7 +1,7 @@
 ---
 title: Tailscale Outbound Configuration for Synology DSM 7
 layout: post
-date: '2025-08-30'
+date: '2025-08-28'
 description: Enabling outbound Tailscale connections on Synology NAS devices is essential when using services like **Snapshot Replication** or **Hyper Backup** over Tailscale IPs. 
 intro: "In this blog post, we will walk through why this configuration is needed, the commands required, and how to apply the setup so it persists across reboots." 
 lang: en_US
