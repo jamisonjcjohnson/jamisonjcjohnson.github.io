@@ -1,7 +1,7 @@
 ---
 title: Tailscale Outbound Configuration for Synology DSM 7
 layout: post
-date: '2025-08-28'
+date: '2025-08-30'
 description: Enabling outbound Tailscale connections on Synology NAS devices is essential when using services like **Snapshot Replication** or **Hyper Backup** over Tailscale IPs. 
 intro: "In this blog post, we will walk through why this configuration is needed, the commands required, and how to apply the setup so it persists across reboots." 
 lang: en_US
@@ -56,6 +56,8 @@ This command performs the following:
 
 > **Note**: A **TUN device** (short for network TUNnel) is a virtual network kernel device used to create point-to-point tunnels. It operates at Layer 3 (Network Layer) of the OSI model and is used by VPN software like Tailscale, WireGuard, and OpenVPN to securely route traffic.
 
+<br>
+
 ## Configure Tailscale for Outbound Support at Boot
 
 To make sure outbound support is reapplied after every reboot, configure a **boot-time scheduled task** in DSM:
@@ -83,11 +85,15 @@ If you’re interested in the details, you can review the [configure-host code o
 
 If you’re using **Snapshot Replication** or **Hyper Backup** between two NAS units, you must configure outbound support on **both** the **source** and **destination** devices. This ensures that whichever side initiates the replication has full Tailscale connectivity.
 
+<br>
+
 ## Notes
 
 * This configuration method is documented in the official Tailscale knowledge base: [Synology Outbound Guide](https://tailscale.com/kb/1131/synology-outbound/)  
 * Best used in setups where the NAS acts as an **initiator** of replication or backups.  
 * Works seamlessly across reboots and DSM updates without requiring manual intervention.  
+
+<br>
 
 ## Conclusion
 

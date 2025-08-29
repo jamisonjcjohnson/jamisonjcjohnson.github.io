@@ -1,7 +1,7 @@
 ---
 title: Tautulli Setup on Synology NAS
 layout: post
-date: '2025-08-28'
+date: '2025-09-06'
 description: Tautulli provides a rich web interface to track Plex activity, receive notifications, and generate reports. 
 intro: "In this blog post, we will walk through installing and configuring Tautulli on a Synology NAS using Docker (or Container Manager)." 
 lang: en_US
