@@ -1,7 +1,7 @@
 ---
 title: Synology NAS UPS Configuration
 layout: post
-date: '2025-08-28'
+date: '2025-09-13'
 description: Protecting your Synology NAS with a UPS (Uninterruptible Power Supply) is critical to preventing data loss and corruption during power outages. 
 intro: "In this blog post, we will cover the physical setup, DSM configuration, verification methods, and best practices to keep your NAS protected." 
 lang: en_US
