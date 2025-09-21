@@ -6,27 +6,27 @@
 
 #- name: Kace
 #  href: /kace/
-  
+
+- name: Batocera
+  href: /batocera/
+
+- name: Business
+  href: /business/
+
+- name: Linux
+  href: /linux/
+
 - name: MacOS
   href: /macos/
 
 - name: Windows
   href: /windows/
-  
-- name: Linux
-  href: /linux/
-  
-#- name: Tools
-#  href: /tools/
 
 - name: Reviews
   href: /reviews/
 
 - name: Other
   href: /other/
-
-- name: Business
-  href: /business/
   
 # Don't display donation page: change donation to off at file '_config.yml'
 - name: Donate
