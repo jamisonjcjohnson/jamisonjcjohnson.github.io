@@ -8,7 +8,7 @@ lang: en_US
 image: "/static/assets/img/blog/2025/notebooklm-review/notebooklm-review.jpg"
 keywords: notebooklm,reviews
 categories:
-- Reviews
+- Other
 tags:
 - notebooklm
 - reviews
