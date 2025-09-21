@@ -1,7 +1,7 @@
 ---
 title: NotebookLM Review
 layout: post
-date: '2025-09-20'
+date: '2025-09-27'
 description: NotebookLM, developed by Google, is designed as an AI-powered research and note-taking assistant. 
 intro: "In this blog post, we will review NotebookLM, its features, benefits, and where it best fits into a productivity workflow." 
 lang: en_US
