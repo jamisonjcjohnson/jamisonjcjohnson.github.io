@@ -1,11 +1,11 @@
 ---
-title: Why You Should Never Use 'git pull' — And What To Do Instead
+title: Don't Use 'git pull' — And What To Do Instead
 layout: post
 date: '2025-10-18'
 description: Learn why 'git pull' can clutter your commit history and how using 'git pull --rebase' keeps your repository clean and maintainable.
 intro: "Every developer has seen it — a rejected push, followed by a quick 'git pull' to fix things. But while it may seem harmless, using 'git pull' the wrong way can lead to messy merge commits and a confusing project history."
 lang: en_US
-image: "/static/assets/img/blog/2025/git_pull_rebase/git_pull_rebase.jpg"
+image: "/static/assets/img/blog/2025/git-pull-rebase/git-pull-rebase.jpg"
 keywords: git,github,git pull,git rebase,version control
 categories:
 - Linux
