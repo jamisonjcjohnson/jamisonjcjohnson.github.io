@@ -16,7 +16,7 @@ tags:
 - networking
 - switching
 - sysadmin
-icon: fa-network-wired
+icon: fa-sitemap
 
 ---
 
