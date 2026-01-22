@@ -2,7 +2,7 @@
 
 title: Using Microsoft Activation Scripts (MAS) for Windows and Office
 layout: post
-date: '2026-01-16'
+date: '2025-11-01'
 description: Learn how to use Microsoft Activation Scripts (MAS) to activate Windows and Microsoft Office quickly using a trusted open-source project.
 intro: "Activating Windows or Microsoft Office can be frustrating, especially in lab environments, rebuilds, or offline systems. Microsoft Activation Scripts (MAS) provides a fast, open-source way to handle activation cleanly and efficiently."
 lang: en_US
