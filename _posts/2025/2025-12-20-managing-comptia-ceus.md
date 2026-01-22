@@ -35,7 +35,8 @@ CompTIA certifications such as Security+, CySA+, PenTest+, and SecurityX (CAS-00
 
 Official CompTIA CEU guidance:
 
-https://www.comptia.org/continuing-education
+[https://www.comptia.org/continuing-education](https://www.comptia.org/continuing-education)
+
 
 Each certification has:
 
@@ -222,5 +223,5 @@ By keeping clean documentation and aligning CEUs with real work and training, Co
 
 For official rules and submission details, always reference:
 
-https://www.comptia.org/continuing-education
+[https://www.comptia.org/continuing-education](https://www.comptia.org/continuing-education)
 
