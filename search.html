@@ -1,30 +1,19 @@
-<!--
-Drop-in replacement for your current search.html.
-This version:
-* Loads the SimpleJekyllSearch library explicitly (so SimpleJekyllSearch is defined)
-* Uses relative_url so it works correctly under /blog (baseurl-safe)
-* Initializes after DOM is ready
--->
-
 <!-- Html Elements for Search -->
 <div id="search-container">
   <input type="text" id="search-input" placeholder="search blog...">
   <ul id="results-container"></ul>
 </div>
 
-<!-- 1) Load the Simple-Jekyll-Search library FIRST
-     Put this file in your repo at: /assets/js/simple-jekyll-search.min.js
--->
-<script src="{{ '/assets/js/simple-jekyll-search.min.js' | relative_url }}" type="text/javascript"></script>
+<!-- Load the library FIRST -->
+<script src="{{ '/static/assets/js/simple-jekyll-search.min.js' | relative_url }}"></script>
 
-<!-- 2) Then load your custom search script (optional) -->
-<script src="{{ '/search-script.js' | relative_url }}" type="text/javascript"></script>
+<!-- Then your custom script (if you still need it) -->
+<script src="{{ '/search-script.js' | relative_url }}"></script>
 
-<!-- 3) Initialize search AFTER the page loads -->
-<script type="text/javascript">
+<script>
 document.addEventListener('DOMContentLoaded', function () {
   if (typeof SimpleJekyllSearch === 'undefined') {
-    console.error('SimpleJekyllSearch is not loaded. Check simple-jekyll-search.min.js path.');
+    console.error('SimpleJekyllSearch is not loaded. Check the path to simple-jekyll-search.min.js');
     return;
   }
 
@@ -38,5 +27,4 @@ document.addEventListener('DOMContentLoaded', function () {
 });
 </script>
 
-<!-- Link back to jamisonjohnson.me -->
 <p><a href="{{ '/blog' | relative_url }}">Back to blog</a></p>
