@@ -15,7 +15,7 @@ tags:
 - troubleshooting
 - linux
 - sysadmin
-icon: fa-chart-line
+icon: fa-terminal
 ---
 
 Splunk Forwarder deployments are usually straightforward, especially when driven by automated scripts. In this case, however, a standard installation failed despite using a well-tested process.

@@ -14,7 +14,7 @@ tags:
 - development
 - tips
 - version control
-icon: fa-code-branch
+icon: fa-terminal
 ---
 
 If you’ve ever collaborated on a Git project, you’ve probably encountered the dreaded **“rejected push”** message. It happens when someone else — let’s call them *Branddon* — pushed their changes before you did. Your local branch and the remote branch have diverged, and now Git wants you to synchronize them before pushing your code.  
