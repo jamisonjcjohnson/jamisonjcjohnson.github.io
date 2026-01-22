@@ -27,7 +27,7 @@ In this blog post, we will walk through how to use **Microsoft Activation Script
 <br>
 
 * TOC
-  {:toc}
+{:toc}
 
 <br>
 
