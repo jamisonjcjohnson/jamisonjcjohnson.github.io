@@ -14,9 +14,9 @@ Welcome to my GitHub repository and portfolio hub. I am a Senior System Administ
 * System administration and operations (Linux and Windows)
 * Security hardening and compliance (STIG/SCAP, continuous monitoring)
 * Automation and scripting (PowerShell, shell scripting, Ansible)
-* Virtualization and infrastructure (VMware vSphere, Proxmox)
+* Virtualization and infrastructure (VMware vSphere, Proxmox, Redhat KVM, Microsoft Hyper-V)
 * Containers and modern deployment (Docker, Podman)
-* Monitoring and troubleshooting (including Splunk-based observability)
+* Monitoring and troubleshooting (including Splunk-based observability and homelab tools like Uptime Kuma)
 
 ## Technical focus areas
 
@@ -29,10 +29,10 @@ Welcome to my GitHub repository and portfolio hub. I am a Senior System Administ
 ### Tooling and technologies
 
 * Automation: PowerShell, Bash/shell scripting, Ansible
-* Virtualization: VMware vSphere (ESXi), Proxmox
+* Virtualization: VMware vSphere (ESXi), Proxmox, Redhat KVM, Microsoft Hyper-V
 * Containers: Docker, Podman
 * Security/Compliance: ACAS, Nessus, STIG/SCAP, PKI
-* ITSM/Collaboration: ServiceNow, Atlassian products, Remedy
+* ITSM/Collaboration: ServiceNow, Atlassian products (Jira & JSM), Remedy
 * Backup/Storage and homelab: Bacula, Veeam, Synology NAS
 
 ## Experience snapshot
@@ -65,11 +65,6 @@ Here are a few recent posts from my blog:
 * [Beszel Configuration](https://jamisonjohnson.me/blog/other/beszel-configuration/)
 * [Synology NAS UPS Configuration](https://jamisonjohnson.me/blog/other/synology-ups-configuration/)
 * [Tailscale Outbound Configuration for Synology DSM 7](https://jamisonjohnson.me/blog/other/tailscale-outbound-configuration-synology/)
-
-## Contact
-
-* Email: jamison.jcjohnson@gmail.com
-* Location: Waldorf, MD
 
 ## Notes
 
