@@ -1,20 +1,42 @@
+<!--
+Drop-in replacement for your current search.html.
+This version:
+* Loads the SimpleJekyllSearch library explicitly (so SimpleJekyllSearch is defined)
+* Uses relative_url so it works correctly under /blog (baseurl-safe)
+* Initializes after DOM is ready
+-->
+
 <!-- Html Elements for Search -->
 <div id="search-container">
-    <input type="text" id="search-input" placeholder="search blog...">
-    <ul id="results-container"></ul>
-    </div>
-    
-    <!-- Script pointing to search-script.js -->
-    <script src="/search-script.js" type="text/javascript"></script>
-    
-    <!-- Configuration -->
-    <script>
-    SimpleJekyllSearch({
-      searchInput: document.getElementById('search-input'),
-      resultsContainer: document.getElementById('results-container'),
-      json: '/search.json'
-    })
-    </script>
+  <input type="text" id="search-input" placeholder="search blog...">
+  <ul id="results-container"></ul>
+</div>
 
-    <!-- Link back to jamisonjohnson.me -->
-<p><a href="https://jamisonjohnson.me/blog">Back to blog</a></p>
+<!-- 1) Load the Simple-Jekyll-Search library FIRST
+     Put this file in your repo at: /assets/js/simple-jekyll-search.min.js
+-->
+<script src="{{ '/assets/js/simple-jekyll-search.min.js' | relative_url }}" type="text/javascript"></script>
+
+<!-- 2) Then load your custom search script (optional) -->
+<script src="{{ '/search-script.js' | relative_url }}" type="text/javascript"></script>
+
+<!-- 3) Initialize search AFTER the page loads -->
+<script type="text/javascript">
+document.addEventListener('DOMContentLoaded', function () {
+  if (typeof SimpleJekyllSearch === 'undefined') {
+    console.error('SimpleJekyllSearch is not loaded. Check simple-jekyll-search.min.js path.');
+    return;
+  }
+
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: "{{ '/search.json' | relative_url }}",
+    noResultsText: 'No results found',
+    limit: 25
+  });
+});
+</script>
+
+<!-- Link back to jamisonjohnson.me -->
+<p><a href="{{ '/blog' | relative_url }}">Back to blog</a></p>
