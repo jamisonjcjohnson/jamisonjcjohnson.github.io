@@ -30,6 +30,9 @@
   
   
   <!-- Main Scripts -->
+  <script src="{{"/static/assets/app-20190620.min.js"| prepend: site.baseurl }}"></script>
+  <script src="{{"/static/assets/blog-20190620.min.js"| prepend: site.baseurl }}"></script>
+  <!-- Search (depends on jQuery/typeahead from the bundles above) -->
   <script src="{{ '/static/js/search.js' | relative_url }}"></script>
   {% include cookieconsent.html %}
   </head>
