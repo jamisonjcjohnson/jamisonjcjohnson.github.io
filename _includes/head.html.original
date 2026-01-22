@@ -30,6 +30,7 @@
   
   
   <!-- Main Scripts -->
-  <script src="{{ '/static/js/search.js' | relative_url }}"></script>
+  <script src="{{"/static/assets/app-20190620.min.js"| prepend: site.baseurl }}"></script>
+  <script src="{{"/static/assets/blog-20190620.min.js"| prepend: site.baseurl }}"></script>
   {% include cookieconsent.html %}
   </head>
