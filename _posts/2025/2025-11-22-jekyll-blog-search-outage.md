@@ -1,7 +1,7 @@
 ---
 title: Jekyll Blog Search Outage — Root Cause and Fix
 layout: post
-date: '2026-11-22'
+date: '2025-11-22'
 description: A postmortem of a Jekyll blog search outage caused by missing JavaScript dependencies and incorrect script load order.
 intro: "The search feature on a Jekyll blog silently failed — no errors, no overlay, and no results. The issue turned out to be a classic JavaScript dependency and load-order problem that broke the search UI without breaking the page."
 lang: en_US
