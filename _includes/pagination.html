@@ -1,12 +1,14 @@
 <!-- _includes/pagination.html -->
 <div class="row">
   <div class="col-lg-12 text-center">
-    {% if counter > 20 %}
+
+    {% if include.counter > include.per_page %}
       <div class="pag-holder"></div>
     {% endif %}
 
-    {% if counter == 0 %}
+    {% if include.counter == 0 %}
       <p>Sorry, there are no articles here yet!</p>
     {% endif %}
+
   </div>
 </div>
