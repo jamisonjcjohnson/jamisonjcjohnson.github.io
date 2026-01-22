@@ -25,6 +25,8 @@ $(function(){
 {% endif %}
 
 {% assign posts_in_category = site.categories[category] %}
+{% assign posts_count = posts_in_category | size %}
+{% assign per_page = 20 %}
 
 <div class="row">
   <div class="col-lg-12 text-center">
@@ -90,7 +92,7 @@ $(function(){
           {% endfor %}
         </div>
 
-        {% include pagination.html counter=(posts_in_category | size) per_page=20 %}
+        {% include pagination.html counter=posts_count per_page=per_page %}
 
       {% endif %}
 
