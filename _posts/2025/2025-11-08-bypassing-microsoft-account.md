@@ -9,7 +9,6 @@ image: "/static/assets/img/blog/2025/bypassing-microsoft-account/bypassing-micro
 keywords: windows,windows11,local account,setup
 categories:
 - Windows
-- SysAdmin
 tags:
 - windows11
 - microsoft

@@ -9,8 +9,7 @@ lang: en_US
 image: "/static/assets/img/blog/2025/tagged-vs-untagged-vlans/tagged-vs-untagged-vlans.jpg"
 keywords: vlan,tagged vlan,untagged vlan,802.1q,networking,switching
 categories:
-- Networking
-- SysAdmin
+- Other
 tags:
 - vlan
 - networking

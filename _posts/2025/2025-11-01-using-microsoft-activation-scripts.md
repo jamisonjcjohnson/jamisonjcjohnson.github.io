@@ -10,7 +10,6 @@ image: "/static/assets/img/blog/2025/using-microsoft-activation-scripts/using-mi
 keywords: windows activation,microsoft activation scripts,mas,windows,office,powershell,system administration
 categories:
 - Windows
-- SysAdmin
 tags:
 - windows
 - powershell
