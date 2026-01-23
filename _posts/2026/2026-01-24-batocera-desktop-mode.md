@@ -1,7 +1,7 @@
 ---
 title: How to Add Desktop Mode Using Batocera Add-ons
 layout: post
-date: '2026-01-24'
+date: '2026-01-17'
 description: Learn how to add a full Linux desktop mode to Batocera using the BUA add-on, including install steps, desktop options, and performance tips.
 intro: "Batocera is best known as a console-style retro gaming OS, but with the BUA add-on you can unlock a full desktop Linux environment directly on the same system — even on devices like Raspberry Pi."
 lang: en_US
