@@ -1,7 +1,7 @@
 ---
 title: How to Add Desktop Mode Using Batocera Add-ons
 layout: post
-date: '2026-01-17'
+date: '2026-01-24'
 description: Learn how to add a full Linux desktop mode to Batocera using the BUA add-on, including install steps, desktop options, and performance tips.
 intro: "Batocera is best known as a console-style retro gaming OS, but with the BUA add-on you can unlock a full desktop Linux environment directly on the same system — even on devices like Raspberry Pi."
 lang: en_US
@@ -154,9 +154,12 @@ In addition to browser-based access, Batocera desktop mode can be accessed secur
 - In the Tailscale admin console, approve Batocera as a device
 - From your Mac, verify connectivity:
 
-**ping 192.168.1.x**
-
-**ping 100.x.y.z**
+```
+ping 192.168.1.x
+```
+```
+ping 100.x.y.z
+```
 
 This confirms both LAN and Tailscale connectivity.
 
@@ -167,23 +170,31 @@ This confirms both LAN and Tailscale connectivity.
 - Open a terminal in Batocera (press **F1**, then open a terminal)
 - Download the Sunshine AppImage:
 
-**curl -L -o /userdata/system/sunshine.AppImage https://github.com/LizardByte/Sunshine/releases/download/v2025.122.141614/sunshine.AppImage**
+```
+curl -L -o /userdata/system/sunshine.AppImage https://github.com/LizardByte/Sunshine/releases/download/v2025.122.141614/sunshine.AppImage
+```
 
 - Make it executable:
 
-**chmod +x /userdata/system/sunshine.AppImage**
+```
+chmod +x /userdata/system/sunshine.AppImage
+```
 
 - Start Sunshine:
 
-**/userdata/system/sunshine.AppImage > /var/log/sunshine.log 2>&1 &**
+```
+/userdata/system/sunshine.AppImage > /var/log/sunshine.log 2>&1 &
+```
 
 - Open the Sunshine Web UI in a browser:
 
-**https://192.168.1.x:47990**
+```
+https://192.168.1.x:47990
 
 or
 
-**https://100.x.y.z:47990**
+https://100.x.y.z:47990
+```
 
 - Accept the security warning and set a username and password
 - If pairing issues occur, use **WebUI → Troubleshooting → Force Close & Restart**
@@ -219,7 +230,9 @@ Once paired:
 
 - View Sunshine logs with:
 
-**tail -f /var/log/sunshine.log**
+```
+tail -f /var/log/sunshine.log
+```
 
 - Always use a strong Sunshine password, especially when accessible over Tailscale
 

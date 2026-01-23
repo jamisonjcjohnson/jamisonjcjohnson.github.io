@@ -1,7 +1,7 @@
 ---
 title: How to Install Batocera on a Hard Drive
 layout: post
-date: '2026-01-17'
+date: '2026-01-31'
 description: Learn how to install Batocera directly to an internal SSD/HDD or an external hard drive using Batocera’s built-in installer.
 intro: "Many people start Batocera from a USB flash drive, but for better performance and long-term use, installing Batocera to an internal or external hard drive is the preferred approach. Batocera includes a built-in installer that makes this process simple and reliable."
 lang: en_US
