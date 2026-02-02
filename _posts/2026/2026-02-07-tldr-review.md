@@ -28,7 +28,7 @@ It is designed for situations where you already know *what* tool you want to use
 <br>
 
 * TOC
-  {:toc}
+{:toc}
 
 <br>
 
