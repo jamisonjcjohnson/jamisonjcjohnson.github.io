@@ -14,7 +14,7 @@ tags:
 - installation
 - storage
 - howto
-icon: fa-hdd
+icon: fa-gamepad
 ---
 
 Running Batocera from a USB flash drive is great for testing, but installing it to a dedicated hard drive or SSD offers better performance, more storage, and a cleaner setup.

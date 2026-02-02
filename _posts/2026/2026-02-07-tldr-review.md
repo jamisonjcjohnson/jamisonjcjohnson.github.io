@@ -2,7 +2,7 @@
 
 title: tldr — A Practical Alternative to man Pages
 layout: post
-date: '2026-02-01'
+date: '2026-02-07'
 description: A concise review and reference for tldr, a community-driven alternative to traditional man pages that focuses on practical command examples.
 intro: "Traditional man pages are powerful, but they are often verbose and hard to scan when you just want a working example. tldr solves this problem by providing short, practical command usage examples."
 lang: en_US
@@ -15,7 +15,7 @@ tags:
 - linux
 - documentation
 - productivity
-icon: fa-book-open
+icon: fa-book
 
 ---
 
