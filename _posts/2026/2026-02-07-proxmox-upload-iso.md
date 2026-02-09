@@ -27,7 +27,7 @@ In some environments, however, the **GUI-based ISO upload** can become slow, sta
 <br>
 
 * TOC
-  {:toc}
+{:toc}
 
 <br>
 
