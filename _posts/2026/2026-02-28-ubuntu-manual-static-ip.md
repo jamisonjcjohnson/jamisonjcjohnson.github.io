@@ -2,7 +2,7 @@
 
 title: Set a Manual Static IP on Ubuntu Server
 layout: post
-date: '2026-02-24'
+date: '2026-02-28'
 description: Learn how to configure a permanent static IPv4 address on Ubuntu Server using Netplan and prevent cloud-init from overwriting your network settings.
 intro: "Ubuntu Server uses Netplan for network configuration, and in many cloud-based installs, cloud-init can overwrite your settings on reboot. In this blog post, we will walk through how to set a permanent static IPv4 address and prevent cloud-init from reverting your configuration."
 lang: en_US
