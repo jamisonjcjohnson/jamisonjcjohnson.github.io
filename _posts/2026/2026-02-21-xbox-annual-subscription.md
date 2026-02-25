@@ -15,7 +15,7 @@ tags:
 - subscription
 - gamepass
 - howto
-- icon: fa-gamepad
+icon: fa-gamepad
 
 ---
 
