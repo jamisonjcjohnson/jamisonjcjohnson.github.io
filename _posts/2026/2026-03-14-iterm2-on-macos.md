@@ -1,7 +1,12 @@
 ---
-
 title: iTerm2 on macOS Configuration and Review
+layout: post
 date: 2026-03-14
+description: The default Terminal app on macOS is functional, but power users, developers, and system administrators often need more flexibility, customization, and productivity features.
+intro: "iTerm2 is a popular replacement that transforms the macOS terminal experience with advanced capabilities."
+lang: en_US
+image: "/static/assets/img/blog/2026/iterm2-on-macos/iterm2-on-macos.jpg"
+keywords: mac,terminal,iterm2,productivity,ssh
 categories:
 - Macos
 tags:
@@ -10,7 +15,6 @@ tags:
 - iterm2
 - productivity
 - ssh
-image: "/static/assets/img/blog/2026/iterm2-on-macos/iterm2-on-macos.jpg"
 icon: fa-terminal
 ---
 
