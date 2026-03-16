@@ -9,7 +9,6 @@ lang: en_US
 image: "/static/assets/img/blog/2026/ubuntu-manual-static-ip/ubuntu-manual-static-ip.jpg"
 keywords: ubuntu,netplan,cloud-init,static ip,linux networking
 categories:
-
 - Linux
 tags:
 - ubuntu

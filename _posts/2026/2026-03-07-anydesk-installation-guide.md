@@ -9,7 +9,6 @@ lang: en_US
 image: "/static/assets/img/blog/2026/anydesk-installation-guide/anydesk-installation-guide.jpg"
 keywords: macos,windows,rdp
 categories:
-
 - Windows
 tags:
 - macos

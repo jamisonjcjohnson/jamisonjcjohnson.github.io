@@ -9,7 +9,6 @@ lang: en_US
 image: "/static/assets/img/blog/2026/proxmox-upload-iso/proxmox-upload-iso.jpg"
 keywords: proxmox,proxmox ve,iso upload,virtualization,scp,winscp
 categories:
-
 - Linux
 tags:
 - proxmox

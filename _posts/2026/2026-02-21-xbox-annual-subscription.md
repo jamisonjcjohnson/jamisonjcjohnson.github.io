@@ -9,7 +9,7 @@ lang: en_US
 image: "/static/assets/img/blog/2026/xbox-annual-subscription/xbox-annual-subscription.jpg"
 keywords: xbox,xbox game pass,12 month subscription,game pass essential,xbox live
 categories:
-- Gaming
+- Other
 tags:
 - xbox
 - subscription
