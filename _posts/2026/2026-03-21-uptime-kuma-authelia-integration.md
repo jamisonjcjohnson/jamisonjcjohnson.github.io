@@ -1,7 +1,7 @@
 ---
 title: Uptime Kuma with Authelia Integration
 layout: post
-date: '2026-03-15'
+date: '2026-03-21'
 description: Learn how to place Uptime Kuma behind Authelia to provide centralized Active Directory or LDAP authentication through a reverse proxy.
 intro: "Uptime Kuma is a lightweight monitoring platform, but it does not natively provide enterprise-friendly AD or LDAP authentication. A common solution is to place it behind Authelia and a reverse proxy so access can be controlled centrally."
 lang: en_US
@@ -25,7 +25,7 @@ Uptime Kuma is a great self-hosted monitoring tool, but its native authenticatio
 <br>
 
 * TOC
-  {:toc}
+{:toc}
 
 <br>
 
