@@ -1,4 +1,5 @@
 ---
+
 title: iTerm2 on macOS Configuration and Review
 date: 2026-03-14
 categories:
