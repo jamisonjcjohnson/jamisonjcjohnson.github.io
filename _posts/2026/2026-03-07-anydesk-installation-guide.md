@@ -35,6 +35,7 @@ This guide explains how to install AnyDesk on Windows and macOS so remote assist
 - Permission to install software on the computer
 - The official [AnyDesk installer](https://anydesk.com/en/downloads/)
 
+<br>
 
 ## Windows Installation Instructions
 
@@ -64,6 +65,9 @@ This guide explains how to install AnyDesk on Windows and macOS so remote assist
 2. You will receive a connection request.
 3. Click **Accept** when you are ready for the connection.
 4. Stay near the computer in case permissions or prompts appear during the session.
+
+
+<br>
 
 ## macOS Installation Instructions
 
@@ -108,12 +112,18 @@ macOS may require additional permissions before remote control works properly.
 3. Click **Accept** when you are ready for me to connect.
 4. Stay near the Mac in case additional permission prompts appear.
 
+
+<br>
+
 ## General Notes
 
 - Download AnyDesk only from the official [AnyDesk installer](https://anydesk.com/en/downloads/) page.
 - Keep the app updated if you use it regularly.
 - If the app opens but remote control does not work on a Mac, the missing step is usually one of the macOS permissions.
 - If you close the app completely, technical support may not be able to connect until you reopen it.
+
+
+<br>
 
 ## Optional Note: Unattended Access
 
