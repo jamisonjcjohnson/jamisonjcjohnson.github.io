@@ -10,7 +10,7 @@ image: "/static/assets/img/blog/2026/hide-windows-users-account-login-screen/hid
 keywords: windows, windows 11, windows 10, login screen, hide user, registry, local user, administrator
 categories:
 - Windows
-  tags:
+tags:
 - windows
 - registry
 - security
