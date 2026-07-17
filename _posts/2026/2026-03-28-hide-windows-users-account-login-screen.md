@@ -164,5 +164,4 @@ For additional information, Microsoft's community guidance and other Windows adm
 ### Additional Resources
 
 - [Microsoft Learn - Remove a User Account from the Windows Logon Screen](https://learn.microsoft.com/en-us/answers/questions/1281830/how-to-remove-user-account-from-windows-logon-scre)
-- [Microsoft Windows IT Pro Documentation (GitHub)](https://github.com/MicrosoftDocs/windows-itpro-docs)
 - [Microsoft Learn - Windows Documentation](https://learn.microsoft.com/windows/)
