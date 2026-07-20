@@ -178,6 +178,68 @@ sudo systemctl restart fail2ban
 
 <br>
 
+#### Configure a Dedicated SSHD Jail Using jail.d
+
+As an alternative to adding the SSH jail directly to `/etc/fail2ban/jail.conf`, you can place the configuration in a dedicated local file:
+
+```bash
+sudo vi /etc/fail2ban/jail.d/sshd.local
+```
+
+Add the following configuration:
+
+```ini
+[sshd]
+enabled = true
+filter = sshd
+port = ssh
+logpath = /var/log/secure
+maxretry = 3
+findtime = 10m
+bantime = 1h
+```
+
+| Parameter                   | Description                                                         |
+| --------------------------- | ------------------------------------------------------------------- |
+| `[sshd]`                    | Defines the jail using Fail2ban's standard SSH jail name.           |
+| `enabled = true`            | Enables monitoring and protection for the SSH service.              |
+| `filter = sshd`             | Uses the built-in SSH authentication filter.                        |
+| `port = ssh`                | Protects the SSH service port, which is normally TCP port 22.       |
+| `logpath = /var/log/secure` | Monitors the RHEL authentication log for failed SSH login attempts. |
+| `maxretry = 3`              | Bans an IP address after three matching failures.                   |
+| `findtime = 10m`            | Counts failures that occur within a ten-minute period.              |
+| `bantime = 1h`              | Bans the offending IP address for one hour.                         |
+
+Using `/etc/fail2ban/jail.d/sshd.local` keeps the custom SSH configuration separate from the package-managed `/etc/fail2ban/jail.conf` file. This helps prevent custom settings from being overwritten during a Fail2ban package update.
+
+Validate the complete Fail2ban configuration:
+
+```bash
+sudo fail2ban-client -t
+```
+
+If the validation succeeds, restart Fail2ban:
+
+```bash
+sudo systemctl restart fail2ban
+```
+
+Confirm that the SSH jail is active:
+
+```bash
+sudo fail2ban-client status sshd
+```
+
+To remove an IP address from this jail, use:
+
+```bash
+sudo fail2ban-client set sshd unbanip 192.168.1.174
+```
+
+The `[automatic-ban]` and `[sshd]` configurations should be treated as separate examples. Do not enable both at the same time when they monitor the same SSH log and protect the same service.
+
+<br>
+
 ## How to Confirm an IP Address Ban
 
 If you suspect that an IP address is banned, do the following to confirm
