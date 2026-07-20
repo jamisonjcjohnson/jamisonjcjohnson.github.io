@@ -9,7 +9,6 @@ image: "/static/assets/img/blog/2026/draw-io-review/draw-io-review.png"
 keywords: draw.io review, diagrams.net, diagramming software, flowcharts, network diagrams, architecture diagrams, free diagram software, visual documentation
 categories:
 - Reviews
-- Business
 tags:
 - drawio
 - diagrams
