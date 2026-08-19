@@ -1,7 +1,7 @@
 ---
 title: "Monet Launcher Review: Free vs. Premium"
 layout: post
-date: '2026-08-19'
+date: '2026-08-22'
 description: A review of Monet Launcher for Google TV devices such as the onn 4K Pro, including its free and Premium features, customization, privacy, and overall value.
 intro: "Monet Launcher replaces the standard Google TV home screen with a cleaner, customizable interface built around your applications rather than advertisements and sponsored recommendations. It works particularly well on inexpensive Google TV devices such as Walmart's onn streaming boxes. In this blog post, we will..."
 lang: en_US
