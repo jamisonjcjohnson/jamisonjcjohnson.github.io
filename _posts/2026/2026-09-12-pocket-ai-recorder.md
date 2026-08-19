@@ -1,7 +1,7 @@
 ---
 title: Pocket AI Recorder Review
 layout: post
-date: '2026-08-19'
+date: '2026-09-12'
 description: A review of the Pocket AI voice recorder, including transcription, summaries, phone-call recording, desktop support, free and Pro features, battery life, and overall value.
 intro: "Pocket is a small AI-powered voice recorder designed to capture meetings, phone calls, conversations, and personal thoughts without constantly reaching for your phone. Its biggest advantage over many competing AI recorders is that the core experience includes unlimited transcription without requiring a subscription. In this blog post, we will review the Pocket AI recorder, its companion applications, free and Pro features, and whether it is worth buying."
 lang: en_US
@@ -23,7 +23,7 @@ Pocket is a small dedicated AI recorder that attaches magnetically to the back o
 
 After recording, Pocket synchronizes the audio to its companion software and creates searchable transcripts, summaries, action items, and other AI-generated notes. Pocket currently supports iPhone, Android, Windows, macOS, and web access.
 
-In this blog post, we will review the Pocket AI recorder, its companion applications, free and Pro features, and whether it is worth buying.
+In this blog post, we will review the Pocket AI recorder, its companion applications, free and Pro features, and whether it is worth buying!
 
 <br>
 
