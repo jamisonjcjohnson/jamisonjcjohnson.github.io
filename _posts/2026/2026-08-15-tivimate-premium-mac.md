@@ -1,7 +1,7 @@
 ---
 title: Purchase TiviMate Premium on a Mac
 layout: post
-date: '2026-08-19'
+date: '2026-08-15'
 description: Learn how Mac users can purchase TiviMate Premium by running the TiviMate Companion Android app through BlueStacks.
 intro: "TiviMate Premium adds several useful features to the TiviMate IPTV Player, but purchasing Premium can be awkward for Apple users because the TiviMate Companion app is distributed through Google Play. In this blog post, we will use BlueStacks on a Mac to install TiviMate Companion, purchase Premium, and activate it on compatible TV devices."
 lang: en_US
