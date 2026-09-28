@@ -77,17 +77,15 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-apple
     - name: fa-code
-  desc: "With nearly 15 years of experience in government support and system administration, I bring a wealth of expertise in various areas of IT. As a seasoned professional, I have a strong command of DoD security standards, network security protocols, system hardening, and troubleshooting both software and hardware. My proficiency extends to administering Linux distributions such as RHEL, CentOS, and Ubuntu, as well as managing Windows 10/11 and Windows Server environments. Additionally, I excel in creating and maintaining VMware vSphere and Proxmox virtual environments.
+  desc: "With over 15 years of experience in systems administration, infrastructure engineering, and government IT support, I specialize in building, securing, maintaining, and troubleshooting enterprise technology environments. My experience spans Linux and Windows administration, system hardening, network security, virtualization, automation, containerized applications, vulnerability management, identity services, and enterprise infrastructure.
 
-<br><br>Furthermore, I leverage my IT knowledge and skills to assist individuals and small businesses with their IT needs on an as-needed and project basis. Whether it’s providing guidance on technology decisions, setting up and securing networks, or troubleshooting complex issues, I am dedicated to delivering top-notch IT solutions tailored to the unique requirements of each client.
+<br><br>I have extensive hands-on experience administering Linux environments including RHEL, CentOS, and Ubuntu, as well as Windows desktop and server platforms. My work also includes VMware vSphere and Proxmox virtualization, Docker-based applications, Active Directory and LDAP, enterprise networking, storage and backup systems, and security practices aligned with DoD standards.
 
-<br><br>In addition to my professional endeavors and IT consulting, I also offer my services as a freelance web developer. I specialize in creating static websites that cater to the specific needs of clients, helping them establish a robust online presence. My goal is to craft well-designed and functional websites that align with the vision and goals of businesses and individuals. Whether it’s showcasing a personal portfolio or creating a professional website for a small business, I am committed to delivering high-quality results that exceed expectations.
+<br><br>Beyond my primary professional role, I provide IT consulting and project-based support to individuals and small businesses through Johnson Premier Consulting. I assist clients with technology planning, infrastructure improvements, network and system configuration, troubleshooting, security, documentation, and other technical needs.
 
-<br><br>With an unwavering work ethic and a passion for tackling challenging projects, I am committed to continuously expanding my knowledge and skills while applying them to support the mission at hand.
+<br><br>I also enjoy building and maintaining technology outside of the traditional enterprise environment. Through home lab projects, automation, self-hosted applications, technical documentation, and this website, I continue to expand my knowledge while sharing practical solutions and lessons learned from real-world IT challenges.
 
-<br><br>Join me on this journey as I showcase my accomplishments, skills, and dedication to continued IT excellence."
-
-
+<br><br>This site serves as a collection of my professional experience, technical projects, documentation, and ongoing journey in information technology."
 
 
 # comment
