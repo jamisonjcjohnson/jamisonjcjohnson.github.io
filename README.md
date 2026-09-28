@@ -6,7 +6,7 @@ Welcome to my GitHub repository and portfolio hub. I am a Senior System Administ
 
 * [Website](https://jamisonjohnson.me/)
 * [Blog](https://jamisonjohnson.me/blog/)
-* [Resume (PDF)](https://jamisonjohnson.me/static/assets/resume/JamisonJohnsonResume_2024.pdf)
+* [Resume (PDF)](https://jamisonjohnson.me/static/assets/resume/JamisonJohnsonResume_2026.pdf)
 * [LinkedIn](https://www.linkedin.com/in/jamisonjcjohnson)
 
 ## What I do
